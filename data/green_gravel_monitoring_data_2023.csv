@@ -1,0 +1,1338 @@
+monitoring_period,date,site,plot_id,treatment,replicate_number,tag_color,source_population,parent_number,observer,number_gravels_remaining,number_gravels_with_kelp,length_mm,holdfast_diameter_mm,urchins,notes
+first,2023-04-04,Dixon,10C1,10C,1,green,cool,ten,Kristina Tietjen,20,13,56,NA,0,
+first,2023-04-04,Dixon,10C1,10C,1,green,cool,ten,Kristina Tietjen,20,13,64,NA,0,
+first,2023-04-04,Dixon,10C1,10C,1,green,cool,ten,Kristina Tietjen,20,13,76,NA,0,
+first,2023-04-04,Dixon,10C1,10C,1,green,cool,ten,Kristina Tietjen,20,13,79,NA,0,
+first,2023-04-04,Dixon,10C1,10C,1,green,cool,ten,Kristina Tietjen,20,13,129,NA,0,
+first,2023-04-04,Dixon,10W1,10W,1,red,warm,ten,Siobhan Gray,19,7,16,NA,0,1 Astrea grazing on green gravel
+first,2023-04-04,Dixon,10W1,10W,1,red,warm,ten,Siobhan Gray,19,7,17,NA,0,1 Astrea grazing on green gravel
+first,2023-04-04,Dixon,10W1,10W,1,red,warm,ten,Siobhan Gray,19,7,21,NA,0,1 Astrea grazing on green gravel
+first,2023-04-04,Dixon,10W1,10W,1,red,warm,ten,Siobhan Gray,19,7,34,NA,0,1 Astrea grazing on green gravel
+first,2023-04-04,Dixon,10W1,10W,1,red,warm,ten,Siobhan Gray,19,7,41,NA,0,1 Astrea grazing on green gravel
+first,2023-04-04,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,20,12,48,NA,0,
+first,2023-04-04,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,20,12,53,NA,0,
+first,2023-04-04,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,20,12,63,NA,0,
+first,2023-04-04,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,20,12,83,NA,0,
+first,2023-04-04,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,20,12,114,NA,0,
+first,2023-04-04,Dixon,2W1,2W,1,orange,warm,two,Lauren Dykman,20,15,55,NA,0,overshadowed by large kelp frond
+first,2023-04-04,Dixon,2W1,2W,1,orange,warm,two,Lauren Dykman,20,15,65,NA,0,overshadowed by large kelp frond
+first,2023-04-04,Dixon,2W1,2W,1,orange,warm,two,Lauren Dykman,20,15,77,NA,0,overshadowed by large kelp frond
+first,2023-04-04,Dixon,2W1,2W,1,orange,warm,two,Lauren Dykman,20,15,80,NA,0,overshadowed by large kelp frond
+first,2023-04-04,Dixon,2W1,2W,1,orange,warm,two,Lauren Dykman,20,15,100,NA,0,overshadowed by large kelp frond
+first,2023-04-04,Dixon,C1,Control,1,yellow,NA,NA,Siobhan Gray,NA,NA,NA,NA,0,Absent; no wild kelp
+first,2023-04-04,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,20,14,13,NA,0,
+first,2023-04-04,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,20,14,27,NA,0,
+first,2023-04-04,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,20,14,28,NA,0,
+first,2023-04-04,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,20,14,56,NA,0,
+first,2023-04-04,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,20,14,57,NA,0,
+first,2023-04-04,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,19,19,24,NA,0,Lauren counted and Clay measured because were running out of time and got to this one last.
+first,2023-04-04,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,19,19,31,NA,0,Lauren counted and Clay measured because were running out of time and got to this one last.
+first,2023-04-04,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,19,19,44,NA,0,Lauren counted and Clay measured because were running out of time and got to this one last.
+first,2023-04-04,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,19,19,57,NA,0,Lauren counted and Clay measured because were running out of time and got to this one last.
+first,2023-04-04,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,19,19,85,NA,0,Lauren counted and Clay measured because were running out of time and got to this one last.
+first,2023-04-04,Dixon,2C2,2C,2,blue,cool,two,Siobhan Gray,19,17,44,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C2,2C,2,blue,cool,two,Siobhan Gray,19,17,47,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C2,2C,2,blue,cool,two,Siobhan Gray,19,17,48,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C2,2C,2,blue,cool,two,Siobhan Gray,19,17,51,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C2,2C,2,blue,cool,two,Siobhan Gray,19,17,57,NA,0,0 bat stars
+first,2023-04-04,Dixon,2W2,2W,2,orange,warm,two,Kristina Tietjen,18,18,39,NA,0,
+first,2023-04-04,Dixon,2W2,2W,2,orange,warm,two,Kristina Tietjen,18,18,45,NA,0,
+first,2023-04-04,Dixon,2W2,2W,2,orange,warm,two,Kristina Tietjen,18,18,46,NA,0,
+first,2023-04-04,Dixon,2W2,2W,2,orange,warm,two,Kristina Tietjen,18,18,57,NA,0,
+first,2023-04-04,Dixon,2W2,2W,2,orange,warm,two,Kristina Tietjen,18,18,66,NA,0,
+first,2023-04-04,Dixon,C2,Control,2,yellow,NA,NA,Kristina Tietjen,NA,NA,NA,NA,0,"8 juv, 2 adult brown algae"
+first,2023-04-04,Dixon,10C3,10C,3,green,cool,ten,Siobhan Gray,17,4,14,NA,0,2 bat stars and 2 Pycnopodia (5 cm)
+first,2023-04-04,Dixon,10C3,10C,3,green,cool,ten,Siobhan Gray,17,4,17,NA,0,2 bat stars and 2 Pycnopodia (5 cm)
+first,2023-04-04,Dixon,10C3,10C,3,green,cool,ten,Siobhan Gray,17,4,31,NA,0,2 bat stars and 2 Pycnopodia (5 cm)
+first,2023-04-04,Dixon,10C3,10C,3,green,cool,ten,Siobhan Gray,17,4,42,NA,0,2 bat stars and 2 Pycnopodia (5 cm)
+first,2023-04-04,Dixon,10C3,10C,3,green,cool,ten,Siobhan Gray,17,4,NA,NA,0,2 bat stars and 2 Pycnopodia (5 cm)
+first,2023-04-04,Dixon,10W3,10W,3,red,warm,ten,Kristina Tietjen,18,6,2,NA,0,
+first,2023-04-04,Dixon,10W3,10W,3,red,warm,ten,Kristina Tietjen,18,6,14,NA,0,
+first,2023-04-04,Dixon,10W3,10W,3,red,warm,ten,Kristina Tietjen,18,6,19,NA,0,
+first,2023-04-04,Dixon,10W3,10W,3,red,warm,ten,Kristina Tietjen,18,6,28,NA,0,
+first,2023-04-04,Dixon,10W3,10W,3,red,warm,ten,Kristina Tietjen,18,6,28,NA,0,
+first,2023-04-04,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,14,8,18,NA,0,3 showed signs of dying and kelp fronds covering plot
+first,2023-04-04,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,14,8,25,NA,0,3 showed signs of dying and kelp fronds covering plot
+first,2023-04-04,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,14,8,35,NA,0,3 showed signs of dying and kelp fronds covering plot
+first,2023-04-04,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,14,8,45,NA,0,3 showed signs of dying and kelp fronds covering plot
+first,2023-04-04,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,14,8,75,NA,0,3 showed signs of dying and kelp fronds covering plot
+first,2023-04-04,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,17,4,7,NA,0,macro and agarum smothering
+first,2023-04-04,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,17,4,17,NA,0,macro and agarum smothering
+first,2023-04-04,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,17,4,18,NA,0,macro and agarum smothering
+first,2023-04-04,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,17,4,24,NA,0,macro and agarum smothering
+first,2023-04-04,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,17,4,NA,NA,0,macro and agarum smothering
+first,2023-04-04,Dixon,C3,Control,3,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,0 brown all reds
+first,2023-04-04,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,15,8,15,NA,0,lots of brown algae growing over and 1 Pycnopodia
+first,2023-04-04,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,15,8,25,NA,0,lots of brown algae growing over and 1 Pycnopodia
+first,2023-04-04,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,15,8,35,NA,0,lots of brown algae growing over and 1 Pycnopodia
+first,2023-04-04,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,15,8,43,NA,0,lots of brown algae growing over and 1 Pycnopodia
+first,2023-04-04,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,15,8,70,NA,0,lots of brown algae growing over and 1 Pycnopodia
+first,2023-04-04,Dixon,10W4,10W,4,red,warm,ten,Clay Steell,19,11,43,NA,0,1 out of plot with no blades
+first,2023-04-04,Dixon,10W4,10W,4,red,warm,ten,Clay Steell,19,11,46,NA,0,1 out of plot with no blades
+first,2023-04-04,Dixon,10W4,10W,4,red,warm,ten,Clay Steell,19,11,47,NA,0,1 out of plot with no blades
+first,2023-04-04,Dixon,10W4,10W,4,red,warm,ten,Clay Steell,19,11,66,NA,0,1 out of plot with no blades
+first,2023-04-04,Dixon,10W4,10W,4,red,warm,ten,Clay Steell,19,11,75,NA,0,1 out of plot with no blades
+first,2023-04-04,Dixon,2C4,2C,4,blue,cool,two,Kristina Tietjen,15,11,15,NA,0,lots of kelp over plot
+first,2023-04-04,Dixon,2C4,2C,4,blue,cool,two,Kristina Tietjen,15,11,29,NA,0,lots of kelp over plot
+first,2023-04-04,Dixon,2C4,2C,4,blue,cool,two,Kristina Tietjen,15,11,30,NA,0,lots of kelp over plot
+first,2023-04-04,Dixon,2C4,2C,4,blue,cool,two,Kristina Tietjen,15,11,31,NA,0,lots of kelp over plot
+first,2023-04-04,Dixon,2C4,2C,4,blue,cool,two,Kristina Tietjen,15,11,34,NA,0,lots of kelp over plot
+first,2023-04-04,Dixon,2W4,2W,4,orange,warm,two,Siobhan Gray,17,8,16,NA,0,5 bat stars
+first,2023-04-04,Dixon,2W4,2W,4,orange,warm,two,Siobhan Gray,17,8,23,NA,0,5 bat stars
+first,2023-04-04,Dixon,2W4,2W,4,orange,warm,two,Siobhan Gray,17,8,41,NA,0,5 bat stars
+first,2023-04-04,Dixon,2W4,2W,4,orange,warm,two,Siobhan Gray,17,8,44,NA,0,5 bat stars
+first,2023-04-04,Dixon,2W4,2W,4,orange,warm,two,Siobhan Gray,17,8,47,NA,0,5 bat stars
+first,2023-04-04,Dixon,C4,Control,4,yellow,NA,NA,Siobhan Gray,NA,NA,NA,NA,0,wild kelp present; 3 rocks with brown kelp
+first,2023-04-04,Dixon,10C5,10C,5,green,cool,ten,Kristina Tietjen,16,8,8,NA,0,
+first,2023-04-04,Dixon,10C5,10C,5,green,cool,ten,Kristina Tietjen,16,8,9,NA,0,
+first,2023-04-04,Dixon,10C5,10C,5,green,cool,ten,Kristina Tietjen,16,8,24,NA,0,
+first,2023-04-04,Dixon,10C5,10C,5,green,cool,ten,Kristina Tietjen,16,8,26,NA,0,
+first,2023-04-04,Dixon,10C5,10C,5,green,cool,ten,Kristina Tietjen,16,8,100,NA,0,kelp on rock being eaten by snail
+first,2023-04-04,Dixon,10W5,10W,5,red,warm,ten,Siobhan Gray,18,2,11,NA,0,1 bag open on top; 2 Pycnopodia; 5 bat stars; 1 bat star eating a green gravel
+first,2023-04-04,Dixon,10W5,10W,5,red,warm,ten,Siobhan Gray,18,2,24,NA,0,1 bag open on top; 2 Pycnopodia; 5 bat stars; 1 bat star eating a green gravel
+first,2023-04-04,Dixon,10W5,10W,5,red,warm,ten,Siobhan Gray,18,2,NA,NA,0,1 bag open on top; 2 Pycnopodia; 5 bat stars; 1 bat star eating a green gravel
+first,2023-04-04,Dixon,10W5,10W,5,red,warm,ten,Siobhan Gray,18,2,NA,NA,0,1 bag open on top; 2 Pycnopodia; 5 bat stars; 1 bat star eating a green gravel
+first,2023-04-04,Dixon,10W5,10W,5,red,warm,ten,Siobhan Gray,18,2,NA,NA,0,1 bag open on top; 2 Pycnopodia; 5 bat stars; 1 bat star eating a green gravel
+first,2023-04-04,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,20,8,26,NA,0,
+first,2023-04-04,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,20,8,58,NA,0,
+first,2023-04-04,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,20,8,73,NA,0,
+first,2023-04-04,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,20,8,74,NA,0,
+first,2023-04-04,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,20,8,96,NA,0,
+first,2023-04-04,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,19,4,16,NA,0,
+first,2023-04-04,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,19,4,24,NA,0,
+first,2023-04-04,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,19,4,40,NA,0,
+first,2023-04-04,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,19,4,50,NA,0,
+first,2023-04-04,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,19,4,NA,NA,0,
+first,2023-04-04,Dixon,C5,Control,5,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,2 rocks with baby brown algae
+first,2023-04-04,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,17,7,35,NA,0,large agarum
+first,2023-04-04,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,17,7,37,NA,0,large agarum
+first,2023-04-04,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,17,7,40,NA,0,large agarum
+first,2023-04-04,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,17,7,56,NA,0,large agarum
+first,2023-04-04,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,17,7,59,NA,0,large agarum
+first,2023-04-04,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,19,4,17,NA,0,hardly enough to measure
+first,2023-04-04,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,19,4,35,NA,0,hardly enough to measure
+first,2023-04-04,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,19,4,50,NA,0,hardly enough to measure
+first,2023-04-04,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,19,4,60,NA,0,hardly enough to measure; broken off at tip
+first,2023-04-04,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,19,4,NA,NA,0,hardly enough to measure; measured and was 22mm but this kelp was dead and degraded and it broke off after measuring
+first,2023-04-04,Dixon,2C6,2C,6,blue,cool,two,Siobhan Gray,20,17,28,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C6,2C,6,blue,cool,two,Siobhan Gray,20,17,41,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C6,2C,6,blue,cool,two,Siobhan Gray,20,17,41,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C6,2C,6,blue,cool,two,Siobhan Gray,20,17,48,NA,0,0 bat stars
+first,2023-04-04,Dixon,2C6,2C,6,blue,cool,two,Siobhan Gray,20,17,76,NA,0,0 bat stars
+first,2023-04-04,Dixon,2W6,2W,6,orange,warm,two,Kristina Tietjen,17,6,13,NA,0,
+first,2023-04-04,Dixon,2W6,2W,6,orange,warm,two,Kristina Tietjen,17,6,28,NA,0,rock covered in diatoms
+first,2023-04-04,Dixon,2W6,2W,6,orange,warm,two,Kristina Tietjen,17,6,31,NA,0,
+first,2023-04-04,Dixon,2W6,2W,6,orange,warm,two,Kristina Tietjen,17,6,32,NA,0,
+first,2023-04-04,Dixon,2W6,2W,6,orange,warm,two,Kristina Tietjen,17,6,34,NA,0,
+first,2023-04-04,Dixon,C6,Control,6,yellow,NA,NA,Kristina Tietjen,NA,NA,NA,NA,0,4 brown algae
+first,2023-04-04,Dixon,10C7,10C,7,green,cool,ten,Siobhan Gray,19,13,48,NA,0,1 bat star
+first,2023-04-04,Dixon,10C7,10C,7,green,cool,ten,Siobhan Gray,19,13,52,NA,0,1 bat star
+first,2023-04-04,Dixon,10C7,10C,7,green,cool,ten,Siobhan Gray,19,13,62,NA,0,1 bat star
+first,2023-04-04,Dixon,10C7,10C,7,green,cool,ten,Siobhan Gray,19,13,66,NA,0,1 bat star
+first,2023-04-04,Dixon,10C7,10C,7,green,cool,ten,Siobhan Gray,19,13,71,NA,0,1 bat star
+first,2023-04-04,Dixon,10W7,10W,7,red,warm,ten,Kristina Tietjen,20,19,16,NA,0,bat star
+first,2023-04-04,Dixon,10W7,10W,7,red,warm,ten,Kristina Tietjen,20,19,29,NA,0,bat star
+first,2023-04-04,Dixon,10W7,10W,7,red,warm,ten,Kristina Tietjen,20,19,32,NA,0,bat star
+first,2023-04-04,Dixon,10W7,10W,7,red,warm,ten,Kristina Tietjen,20,19,32,NA,0,bat star
+first,2023-04-04,Dixon,10W7,10W,7,red,warm,ten,Kristina Tietjen,20,19,49,NA,0,bat star
+first,2023-04-04,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,16,7,34,NA,0,
+first,2023-04-04,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,16,7,45,NA,0,
+first,2023-04-04,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,16,7,55,NA,0,
+first,2023-04-04,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,16,7,65,NA,0,
+first,2023-04-04,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,16,7,67,NA,0,
+first,2023-04-04,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,19,2,24,NA,0,
+first,2023-04-04,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,19,2,34,NA,0,
+first,2023-04-04,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,19,2,NA,NA,0,
+first,2023-04-04,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,19,2,NA,NA,0,
+first,2023-04-04,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,19,2,NA,NA,0,
+first,2023-04-04,Dixon,C7,Control,7,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,0 brown algae; large log
+first,2023-04-04,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,16,12,50,NA,0,
+first,2023-04-04,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,16,12,76,NA,0,
+first,2023-04-04,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,16,12,80,NA,0,
+first,2023-04-04,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,16,12,104,NA,0,
+first,2023-04-04,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,16,12,105,NA,0,
+first,2023-04-04,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,19,4,8,NA,0,
+first,2023-04-04,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,19,4,12,NA,0,
+first,2023-04-04,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,19,4,26,NA,0,
+first,2023-04-04,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,19,4,45,NA,0,
+first,2023-04-04,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,19,4,NA,NA,0,
+first,2023-04-04,Dixon,2C8,2C,8,blue,cool,two,Kristina Tietjen,20,17,46,NA,0,
+first,2023-04-04,Dixon,2C8,2C,8,blue,cool,two,Kristina Tietjen,20,17,65,NA,0,
+first,2023-04-04,Dixon,2C8,2C,8,blue,cool,two,Kristina Tietjen,20,17,68,NA,0,
+first,2023-04-04,Dixon,2C8,2C,8,blue,cool,two,Kristina Tietjen,20,17,71,NA,0,
+first,2023-04-04,Dixon,2C8,2C,8,blue,cool,two,Kristina Tietjen,20,17,75,NA,0,
+first,2023-04-04,Dixon,2W8,2W,8,orange,warm,two,Siobhan Gray,20,19,66,NA,0,1 bat star
+first,2023-04-04,Dixon,2W8,2W,8,orange,warm,two,Siobhan Gray,20,19,68,NA,0,1 bat star
+first,2023-04-04,Dixon,2W8,2W,8,orange,warm,two,Siobhan Gray,20,19,73,NA,0,1 bat star
+first,2023-04-04,Dixon,2W8,2W,8,orange,warm,two,Siobhan Gray,20,19,86,NA,0,1 bat star
+first,2023-04-04,Dixon,2W8,2W,8,orange,warm,two,Siobhan Gray,20,19,99,NA,0,1 bat star
+first,2023-04-04,Dixon,C8,Control,8,yellow,NA,NA,Siobhan Gray,NA,NA,NA,NA,0,Present; 1 rock with kelp
+first,2023-04-03,Ed King,10C1,10C,1,green,cool,ten,Siobhan Gray,17,10,31,NA,0,
+first,2023-04-03,Ed King,10C1,10C,1,green,cool,ten,Siobhan Gray,17,10,52,NA,0,
+first,2023-04-03,Ed King,10C1,10C,1,green,cool,ten,Siobhan Gray,17,10,54,NA,0,
+first,2023-04-03,Ed King,10C1,10C,1,green,cool,ten,Siobhan Gray,17,10,63,NA,0,
+first,2023-04-03,Ed King,10C1,10C,1,green,cool,ten,Siobhan Gray,17,10,75,NA,0,
+first,2023-04-03,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,17,12,21,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,17,12,25,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,17,12,25,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,17,12,30,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,17,12,46,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,19,9,32,NA,0,1 gravel outside plot
+first,2023-04-03,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,19,9,34,NA,0,1 gravel outside plot
+first,2023-04-03,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,19,9,35,NA,0,1 gravel outside plot
+first,2023-04-03,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,19,9,50,NA,0,1 gravel outside plot
+first,2023-04-03,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,19,9,80,NA,0,1 gravel outside plot
+first,2023-04-03,Ed King,2W1,2W,1,orange,warm,two,Kristina Tietjen,13,12,75,NA,0,3 gravels seen outside plot
+first,2023-04-03,Ed King,2W1,2W,1,orange,warm,two,Kristina Tietjen,13,12,95,NA,0,3 gravels seen outside plot
+first,2023-04-03,Ed King,2W1,2W,1,orange,warm,two,Kristina Tietjen,13,12,146,NA,0,3 gravels seen outside plot
+first,2023-04-03,Ed King,2W1,2W,1,orange,warm,two,Kristina Tietjen,13,12,150,NA,0,3 gravels seen outside plot
+first,2023-04-03,Ed King,2W1,2W,1,orange,warm,two,Kristina Tietjen,13,12,198,NA,0,3 gravels seen outside plot
+first,2023-04-03,Ed King,C1,Control,1,yellow,NA,NA,Kristina Tietjen,NA,NA,NA,NA,0,~11 brown algae seen in plot
+first,2023-04-03,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,18,18,55,NA,0,1 Pisaster and 1 Pycnopodia in plot
+first,2023-04-03,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,18,18,60,NA,0,1 Pisaster and 1 Pycnopodia in plot
+first,2023-04-03,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,18,18,60,NA,0,1 Pisaster and 1 Pycnopodia in plot
+first,2023-04-03,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,18,18,65,NA,0,1 Pisaster and 1 Pycnopodia in plot
+first,2023-04-03,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,18,18,85,NA,0,1 Pisaster and 1 Pycnopodia in plot
+first,2023-04-03,Ed King,10W2,10W,2,red,warm,ten,Kristina Tietjen,20,20,45,NA,0,
+first,2023-04-03,Ed King,10W2,10W,2,red,warm,ten,Kristina Tietjen,20,20,47,NA,0,
+first,2023-04-03,Ed King,10W2,10W,2,red,warm,ten,Kristina Tietjen,20,20,48,NA,0,
+first,2023-04-03,Ed King,10W2,10W,2,red,warm,ten,Kristina Tietjen,20,20,49,NA,0,
+first,2023-04-03,Ed King,10W2,10W,2,red,warm,ten,Kristina Tietjen,20,20,77,NA,0,
+first,2023-04-03,Ed King,2C2,2C,2,blue,cool,two,Siobhan Gray,20,18,69,NA,0,
+first,2023-04-03,Ed King,2C2,2C,2,blue,cool,two,Siobhan Gray,20,18,82,NA,0,
+first,2023-04-03,Ed King,2C2,2C,2,blue,cool,two,Siobhan Gray,20,18,83,NA,0,
+first,2023-04-03,Ed King,2C2,2C,2,blue,cool,two,Siobhan Gray,20,18,98,NA,0,
+first,2023-04-03,Ed King,2C2,2C,2,blue,cool,two,Siobhan Gray,20,18,107,NA,0,
+first,2023-04-03,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,16,16,33,NA,0,1 gravel outside of plot and it is growing
+first,2023-04-03,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,16,16,34,NA,0,1 gravel outside of plot and it is growing
+first,2023-04-03,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,16,16,44,NA,0,1 gravel outside of plot and it is growing
+first,2023-04-03,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,16,16,50,NA,0,1 gravel outside of plot and it is growing
+first,2023-04-03,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,16,16,53,NA,0,1 gravel outside of plot and it is growing
+first,2023-04-03,Ed King,C2,Control,2,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,7 brown algae blades seen
+first,2023-04-03,Ed King,10C3,10C,3,green,cool,ten,Kristina Tietjen,18,18,81,NA,0,
+first,2023-04-03,Ed King,10C3,10C,3,green,cool,ten,Kristina Tietjen,18,18,88,NA,0,
+first,2023-04-03,Ed King,10C3,10C,3,green,cool,ten,Kristina Tietjen,18,18,91,NA,0,
+first,2023-04-03,Ed King,10C3,10C,3,green,cool,ten,Kristina Tietjen,18,18,99,NA,0,
+first,2023-04-03,Ed King,10C3,10C,3,green,cool,ten,Kristina Tietjen,18,18,106,NA,0,
+first,2023-04-03,Ed King,10W3,10W,3,red,warm,ten,Clay Steell,18,16,44,NA,0,
+first,2023-04-03,Ed King,10W3,10W,3,red,warm,ten,Clay Steell,18,16,52,NA,0,
+first,2023-04-03,Ed King,10W3,10W,3,red,warm,ten,Clay Steell,18,16,53,NA,0,
+first,2023-04-03,Ed King,10W3,10W,3,red,warm,ten,Clay Steell,18,16,63,NA,0,
+first,2023-04-03,Ed King,10W3,10W,3,red,warm,ten,Clay Steell,18,16,83,NA,0,
+first,2023-04-03,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,16,15,58,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,16,15,60,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,16,15,70,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,16,15,70,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,16,15,75,NA,0,1 Pisaster in plot
+first,2023-04-03,Ed King,2W3,2W,3,orange,warm,two,Siobhan Gray,16,14,62,NA,0,
+first,2023-04-03,Ed King,2W3,2W,3,orange,warm,two,Siobhan Gray,16,14,64,NA,0,
+first,2023-04-03,Ed King,2W3,2W,3,orange,warm,two,Siobhan Gray,16,14,77,NA,0,
+first,2023-04-03,Ed King,2W3,2W,3,orange,warm,two,Siobhan Gray,16,14,84,NA,0,
+first,2023-04-03,Ed King,2W3,2W,3,orange,warm,two,Siobhan Gray,16,14,86,NA,0,
+first,2023-04-03,Ed King,C3,Control,3,yellow,NA,NA,Siobhan Gray,NA,NA,NA,NA,0,Brown algae present; 26 rocks with kelp
+first,2023-04-03,Ed King,10C4,10C,4,green,cool,ten,Clay Steell,17,16,35,NA,0,big natural settler (~100mm)
+first,2023-04-03,Ed King,10C4,10C,4,green,cool,ten,Clay Steell,17,16,40,NA,0,big natural settler (~100mm)
+first,2023-04-03,Ed King,10C4,10C,4,green,cool,ten,Clay Steell,17,16,60,NA,0,big natural settler (~100mm)
+first,2023-04-03,Ed King,10C4,10C,4,green,cool,ten,Clay Steell,17,16,72,NA,0,big natural settler (~100mm)
+first,2023-04-03,Ed King,10C4,10C,4,green,cool,ten,Clay Steell,17,16,73,NA,0,big natural settler (~100mm)
+first,2023-04-03,Ed King,10W4,10W,4,red,warm,ten,Siobhan Gray,19,18,46,NA,0,
+first,2023-04-03,Ed King,10W4,10W,4,red,warm,ten,Siobhan Gray,19,18,52,NA,0,
+first,2023-04-03,Ed King,10W4,10W,4,red,warm,ten,Siobhan Gray,19,18,54,NA,0,
+first,2023-04-03,Ed King,10W4,10W,4,red,warm,ten,Siobhan Gray,19,18,59,NA,0,
+first,2023-04-03,Ed King,10W4,10W,4,red,warm,ten,Siobhan Gray,19,18,62,NA,0,
+first,2023-04-05,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,16,16,55,NA,0,"This was labeled wrong, was actually treatment 2C4."
+first,2023-04-05,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,16,16,60,NA,0,"This was labeled wrong, was actually treatment 2C4."
+first,2023-04-05,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,16,16,62,NA,0,"This was labeled wrong, was actually treatment 2C4."
+first,2023-04-05,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,16,16,68,NA,0,"This was labeled wrong, was actually treatment 2C4."
+first,2023-04-05,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,16,16,78,NA,0,"This was labeled wrong, was actually treatment 2C4."
+first,2023-04-03,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,19,19,65,NA,0,
+first,2023-04-03,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,19,19,65,NA,0,
+first,2023-04-03,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,19,19,68,NA,0,
+first,2023-04-03,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,19,19,72,NA,0,
+first,2023-04-03,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,19,19,100,NA,0,
+first,2023-04-05,Ed King,2C4,Control,4,blue,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,"12 rocks with brown algae. This was labeled wrong, was actually the control plot. The gravels for this treatment are in C4."
+first,2023-04-03,Ed King,10C5,10C,5,green,cool,ten,Siobhan Gray,17,16,86,NA,1,
+first,2023-04-03,Ed King,10C5,10C,5,green,cool,ten,Siobhan Gray,17,16,91,NA,1,
+first,2023-04-03,Ed King,10C5,10C,5,green,cool,ten,Siobhan Gray,17,16,104,NA,1,
+first,2023-04-03,Ed King,10C5,10C,5,green,cool,ten,Siobhan Gray,17,16,109,NA,1,
+first,2023-04-03,Ed King,10C5,10C,5,green,cool,ten,Siobhan Gray,17,16,131,NA,1,
+first,2023-04-03,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,16,13,17,NA,0,
+first,2023-04-03,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,16,13,25,NA,0,
+first,2023-04-03,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,16,13,37,NA,0,
+first,2023-04-03,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,16,13,42,NA,0,
+first,2023-04-03,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,16,13,55,NA,0,
+first,2023-04-03,Ed King,2C5,2C,5,NR,cool,two,Clay Steell,16,12,63,NA,0,
+first,2023-04-03,Ed King,2C5,2C,5,NR,cool,two,Clay Steell,16,12,75,NA,0,
+first,2023-04-03,Ed King,2C5,2C,5,NR,cool,two,Clay Steell,16,12,77,NA,0,
+first,2023-04-03,Ed King,2C5,2C,5,NR,cool,two,Clay Steell,16,12,87,NA,0,
+first,2023-04-03,Ed King,2C5,2C,5,NR,cool,two,Clay Steell,16,12,115,NA,0,
+first,2023-04-03,Ed King,2W5,2W,5,orange,warm,two,Kristina Tietjen,18,14,72,NA,0,
+first,2023-04-03,Ed King,2W5,2W,5,orange,warm,two,Kristina Tietjen,18,14,78,NA,0,
+first,2023-04-03,Ed King,2W5,2W,5,orange,warm,two,Kristina Tietjen,18,14,86,NA,0,
+first,2023-04-03,Ed King,2W5,2W,5,orange,warm,two,Kristina Tietjen,18,14,111,NA,0,
+first,2023-04-03,Ed King,2W5,2W,5,orange,warm,two,Kristina Tietjen,18,14,121,NA,0,
+first,2023-04-05,Ed King,C5,Control,5,yellow,NA,NA,Siobhan Gray,NA,NA,NA,NA,0,15 rocks with kelp
+first,2023-04-03,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,14,11,15,NA,2,2 urchins in plot
+first,2023-04-03,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,14,11,18,NA,2,2 urchins in plot
+first,2023-04-03,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,14,11,20,NA,2,2 urchins in plot
+first,2023-04-03,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,14,11,25,NA,2,2 urchins in plot
+first,2023-04-03,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,14,11,27,NA,2,2 urchins in plot
+first,2023-04-03,Ed King,10W6,10W,6,red,warm,ten,Kristina Tietjen,16,16,21,NA,0,
+first,2023-04-03,Ed King,10W6,10W,6,red,warm,ten,Kristina Tietjen,16,16,36,NA,0,
+first,2023-04-03,Ed King,10W6,10W,6,red,warm,ten,Kristina Tietjen,16,16,46,NA,0,
+first,2023-04-03,Ed King,10W6,10W,6,red,warm,ten,Kristina Tietjen,16,16,47,NA,0,
+first,2023-04-03,Ed King,10W6,10W,6,red,warm,ten,Kristina Tietjen,16,16,54,NA,0,
+first,2023-04-03,Ed King,2C6,2C,6,blue,cool,two,Siobhan Gray,20,14,24,NA,0,
+first,2023-04-03,Ed King,2C6,2C,6,blue,cool,two,Siobhan Gray,20,14,28,NA,0,
+first,2023-04-03,Ed King,2C6,2C,6,blue,cool,two,Siobhan Gray,20,14,29,NA,0,
+first,2023-04-03,Ed King,2C6,2C,6,blue,cool,two,Siobhan Gray,20,14,36,NA,0,
+first,2023-04-03,Ed King,2C6,2C,6,blue,cool,two,Siobhan Gray,20,14,52,NA,0,
+first,2023-04-03,Ed King,2W6,2W,6,yellow,warm,two,Clay Steell,16,16,31,NA,1,urchin close
+first,2023-04-03,Ed King,2W6,2W,6,yellow,warm,two,Clay Steell,16,16,40,NA,1,urchin close
+first,2023-04-03,Ed King,2W6,2W,6,yellow,warm,two,Clay Steell,16,16,43,NA,1,urchin close
+first,2023-04-03,Ed King,2W6,2W,6,yellow,warm,two,Clay Steell,16,16,45,NA,1,urchin close
+first,2023-04-03,Ed King,2W6,2W,6,yellow,warm,two,Clay Steell,16,16,51,NA,1,urchin close
+first,2023-04-03,Ed King,C6,Control,6,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,1 blade and Pterygophora
+first,2023-04-03,Ed King,10C7,10C,7,green,cool,ten,Kristina Tietjen,18,9,11,NA,0,
+first,2023-04-03,Ed King,10C7,10C,7,green,cool,ten,Kristina Tietjen,18,9,18,NA,0,
+first,2023-04-03,Ed King,10C7,10C,7,green,cool,ten,Kristina Tietjen,18,9,32,NA,0,
+first,2023-04-03,Ed King,10C7,10C,7,green,cool,ten,Kristina Tietjen,18,9,39,NA,0,
+first,2023-04-03,Ed King,10C7,10C,7,green,cool,ten,Kristina Tietjen,18,9,42,NA,0,
+first,2023-04-03,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,17,16,31,NA,0,2 out of plot with no blades
+first,2023-04-03,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,17,16,34,NA,0,2 out of plot with no blades
+first,2023-04-03,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,17,16,36,NA,0,2 out of plot with no blades
+first,2023-04-03,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,17,16,40,NA,0,2 out of plot with no blades
+first,2023-04-03,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,17,16,42,NA,0,2 out of plot with no blades
+first,2023-04-03,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,16,13,45,NA,0,One gravel on a sand bag and I moved it inside; One gravel outside plot
+first,2023-04-03,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,16,13,45,NA,0,One gravel on a sand bag and I moved it inside; One gravel outside plot
+first,2023-04-03,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,16,13,47,NA,0,One gravel on a sand bag and I moved it inside; One gravel outside plot
+first,2023-04-03,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,16,13,55,NA,0,One gravel on a sand bag and I moved it inside; One gravel outside plot
+first,2023-04-03,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,16,13,57,NA,0,One gravel on a sand bag and I moved it inside; One gravel outside plot
+first,2023-04-03,Ed King,2W7,2W,7,orange,warm,two,Siobhan Gray,13,11,41,NA,0,Only 3 sand bags
+first,2023-04-03,Ed King,2W7,2W,7,orange,warm,two,Siobhan Gray,13,11,43,NA,0,Only 3 sand bags
+first,2023-04-03,Ed King,2W7,2W,7,orange,warm,two,Siobhan Gray,13,11,48,NA,0,Only 3 sand bags
+first,2023-04-03,Ed King,2W7,2W,7,orange,warm,two,Siobhan Gray,13,11,52,NA,0,Only 3 sand bags
+first,2023-04-03,Ed King,2W7,2W,7,orange,warm,two,Siobhan Gray,13,11,72,NA,0,Only 3 sand bags
+first,2023-04-03,Ed King,C7,Control,7,yellow,NA,NA,Siobhan Gray,NA,NA,NA,NA,0,"6 rocks with kelp; Pisaster holding white rock outside of control plot, far side."
+first,2023-04-03,Ed King,10C8,10C,8,green,cool,ten,Kristina Tietjen,17,13,12,NA,0,
+first,2023-04-03,Ed King,10C8,10C,8,green,cool,ten,Kristina Tietjen,17,13,14,NA,0,
+first,2023-04-03,Ed King,10C8,10C,8,green,cool,ten,Kristina Tietjen,17,13,34,NA,0,
+first,2023-04-03,Ed King,10C8,10C,8,green,cool,ten,Kristina Tietjen,17,13,55,NA,0,
+first,2023-04-03,Ed King,10C8,10C,8,green,cool,ten,Kristina Tietjen,17,13,97,NA,0,
+first,2023-04-03,Ed King,10W8,10W,8,red,warm,ten,Siobhan Gray,19,17,42,NA,0,
+first,2023-04-03,Ed King,10W8,10W,8,red,warm,ten,Siobhan Gray,19,17,58,NA,0,
+first,2023-04-03,Ed King,10W8,10W,8,red,warm,ten,Siobhan Gray,19,17,63,NA,0,
+first,2023-04-03,Ed King,10W8,10W,8,red,warm,ten,Siobhan Gray,19,17,66,NA,0,
+first,2023-04-03,Ed King,10W8,10W,8,red,warm,ten,Siobhan Gray,19,17,68,NA,0,
+first,2023-04-03,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,15,7,12,NA,0,1 out of plot with no blades
+first,2023-04-03,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,15,7,18,NA,0,1 out of plot with no blades
+first,2023-04-03,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,15,7,24,NA,0,1 out of plot with no blades
+first,2023-04-03,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,15,7,29,NA,0,1 out of plot with no blades
+first,2023-04-03,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,15,7,42,NA,0,1 out of plot with no blades
+first,2023-04-03,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,18,16,35,NA,0,Radula scrape marks on bags
+first,2023-04-03,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,18,16,45,NA,0,Radula scrape marks on bags
+first,2023-04-03,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,18,16,55,NA,0,Radula scrape marks on bags
+first,2023-04-03,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,18,16,56,NA,0,Radula scrape marks on bags
+first,2023-04-03,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,18,16,60,NA,0,Radula scrape marks on bags
+first,2023-04-03,Ed King,C8,Control,8,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,7 rocks with brown algae
+fourth,2023-08-29,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,8,1,380,NA,0,Collected in 10C1#1 bag
+fourth,2023-08-29,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,8,1,NA,NA,0,Dead - took vid. 0 urchins
+fourth,2023-08-29,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,8,1,NA,NA,0,Dead - took vid. 0 urchins
+fourth,2023-08-29,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,8,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,8,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W1,10W,1,,warm,ten,Clay Steell,NA,1,3560,130,0,0 urchins
+fourth,2023-08-29,Dixon,10W1,10W,1,,warm,ten,Clay Steell,NA,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W1,10W,1,,warm,ten,Clay Steell,NA,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W1,10W,1,,warm,ten,Clay Steell,NA,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W1,10W,1,,warm,ten,Clay Steell,NA,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C1,2C,1,blue,cool,two,Lauren Dykman,12,1,500,60,0,0 urchins
+fourth,2023-08-29,Dixon,2C1,2C,1,blue,cool,two,Lauren Dykman,12,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C1,2C,1,blue,cool,two,Lauren Dykman,12,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C1,2C,1,blue,cool,two,Lauren Dykman,12,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C1,2C,1,blue,cool,two,Lauren Dykman,12,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W1,2W,1,,warm,two,Clay Steell,NA,3,725,65,0,0 urchins
+fourth,2023-08-29,Dixon,2W1,2W,1,,warm,two,Clay Steell,NA,3,740,70,0,0 urchins
+fourth,2023-08-29,Dixon,2W1,2W,1,,warm,two,Clay Steell,NA,3,750,50,0,~2m outside plot
+fourth,2023-08-29,Dixon,2W1,2W,1,,warm,two,Clay Steell,NA,3,NA,NA,0,found grazed outside plot ~2m from C2
+fourth,2023-08-29,Dixon,2W1,2W,1,,warm,two,Clay Steell,NA,3,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,C1,Control,1,yellow,NA,NA,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C2,10C,2,,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C2,10C,2,,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C2,10C,2,,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C2,10C,2,,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C2,10C,2,,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W2,10W,2,NA,warm,ten,Lauren Dykman,11,1,160,NA,0,mostly eaten - should remove from length analysis
+fourth,2023-08-29,Dixon,10W2,10W,2,NA,warm,ten,Lauren Dykman,11,1,NA,NA,0,found grazed in 10C2; found tag
+fourth,2023-08-29,Dixon,10W2,10W,2,NA,warm,ten,Lauren Dykman,11,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W2,10W,2,NA,warm,ten,Lauren Dykman,11,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W2,10W,2,NA,warm,ten,Lauren Dykman,11,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C2,2C,2,,cool,two,Clay Steell,NA,4,350,40,1,1 urchin
+fourth,2023-08-29,Dixon,2C2,2C,2,,cool,two,Clay Steell,NA,4,520,17,1,1 urchin
+fourth,2023-08-29,Dixon,2C2,2C,2,,cool,two,Clay Steell,NA,4,790,45,1,1 urchin; looked poorly; no large or intact blades left
+fourth,2023-08-29,Dixon,2C2,2C,2,,cool,two,Clay Steell,NA,4,1790,50,1,1 urchin
+fourth,2023-08-29,Dixon,2C2,2C,2,,cool,two,Clay Steell,NA,4,NA,NA,1,grazed by 10W2
+fourth,2023-08-29,Dixon,2W2,2W,2,NA,warm,two,Lauren Dykman,12,0,NA,NA,1,1 urchin; kelp confirmed dead - found tag
+fourth,2023-08-29,Dixon,2W2,2W,2,NA,warm,two,Lauren Dykman,12,0,NA,NA,1,1 urchin; kelp confirmed dead - found tag
+fourth,2023-08-29,Dixon,2W2,2W,2,NA,warm,two,Lauren Dykman,12,0,NA,NA,1,1 urchin; kelp confirmed dead - found tag
+fourth,2023-08-29,Dixon,2W2,2W,2,NA,warm,two,Lauren Dykman,12,0,NA,NA,1,1 urchin; kelp confirmed dead - found tag
+fourth,2023-08-29,Dixon,2W2,2W,2,NA,warm,two,Lauren Dykman,12,0,NA,NA,1,1 urchin; kelp confirmed dead - found tag
+fourth,2023-08-29,Dixon,C2,Control,2,yellow,NA,NA,Clay Steell,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-29,Dixon,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W3,10W,3,red,warm,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W3,10W,3,red,warm,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W3,10W,3,red,warm,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W3,10W,3,red,warm,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W3,10W,3,red,warm,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,6,1,335,20,0,0 urchins
+fourth,2023-08-29,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,6,1,NA,NA,0,0 urchins; dead found tag.
+fourth,2023-08-29,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,6,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,6,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C3,2C,3,blue,cool,two,Lauren Dykman,6,1,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,C3,Control,3,yellow,NA,NA,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,6,0,NA,NA,0,Dead - found tag.
+fourth,2023-08-29,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,6,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,6,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,6,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,6,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C4,2C,4,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C4,2C,4,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C4,2C,4,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C4,2C,4,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C4,2C,4,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,C4,Control,4,yellow,NA,NA,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2C5,2C,5,blue,cool,two,Lauren Dykman,12,0,NA,NA,0,Eaten took vid.
+fourth,2023-08-29,Dixon,2C5,2C,5,blue,cool,two,Lauren Dykman,12,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C5,2C,5,blue,cool,two,Lauren Dykman,12,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C5,2C,5,blue,cool,two,Lauren Dykman,12,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2C5,2C,5,blue,cool,two,Lauren Dykman,12,0,NA,NA,0,
+fourth,2023-08-29,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-29,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-29,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-29,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-29,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-29,Dixon,C5,Control,5,yellow,NA,NA,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10C6,10C,6,NA,cool,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10C6,10C,6,NA,cool,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10C6,10C,6,NA,cool,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10C6,10C,6,NA,cool,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10C6,10C,6,NA,cool,ten,Clay Steell,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,C6,Control,6,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10C7,10C,7,green,cool,ten,Clay Steell,NA,0,NA,NA,4,4 urchins.
+fourth,2023-08-29,Dixon,10C7,10C,7,green,cool,ten,Clay Steell,NA,0,NA,NA,4,4 urchins.
+fourth,2023-08-29,Dixon,10C7,10C,7,green,cool,ten,Clay Steell,NA,0,NA,NA,4,4 urchins.
+fourth,2023-08-29,Dixon,10C7,10C,7,green,cool,ten,Clay Steell,NA,0,NA,NA,4,4 urchins.
+fourth,2023-08-29,Dixon,10C7,10C,7,green,cool,ten,Clay Steell,NA,0,NA,NA,4,4 urchins.
+fourth,2023-08-29,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-29,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,C7,Control,7,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C8,10C,8,,cool,ten,Clay Steell,8,0,NA,NA,0,0 urchins; 2 tags dead
+fourth,2023-08-29,Dixon,10C8,10C,8,,cool,ten,Clay Steell,8,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C8,10C,8,,cool,ten,Clay Steell,8,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C8,10C,8,,cool,ten,Clay Steell,8,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10C8,10C,8,,cool,ten,Clay Steell,8,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+fourth,2023-08-29,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-29,Dixon,C8,Control,8,yellow,NA,NA,Clay Steell,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,10C1,10C,1,green,cool,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-28,Ed King,10C1,10C,1,green,cool,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-28,Ed King,10C1,10C,1,green,cool,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-28,Ed King,10C1,10C,1,green,cool,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-28,Ed King,10C1,10C,1,green,cool,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-28,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 50% Desmarestia
+fourth,2023-08-28,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 50% Desmarestia
+fourth,2023-08-28,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 50% Desmarestia
+fourth,2023-08-28,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 50% Desmarestia
+fourth,2023-08-28,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 50% Desmarestia
+fourth,2023-08-28,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,7,2,360,40,0,not tagged; 0 urchins
+fourth,2023-08-28,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,7,2,2900,60,0,maybe not ours?
+fourth,2023-08-28,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,7,2,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,7,2,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,7,2,NA,NA,0,0 urchins; 2 tags dead
+fourth,2023-08-28,Ed King,2W1,2W,1,orange,warm,two,Lauren Dykman,7,1,5300,110,0,"blade 0.9m, multiple individuals on one gravel, coiled in wild kelp"
+fourth,2023-08-28,Ed King,2W1,2W,1,orange,warm,two,Lauren Dykman,7,1,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W1,2W,1,orange,warm,two,Lauren Dykman,7,1,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W1,2W,1,orange,warm,two,Lauren Dykman,7,1,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W1,2W,1,orange,warm,two,Lauren Dykman,7,1,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,C1,Control,1,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,2,2 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,7,0,NA,NA,0,0 urchins; small white whelk
+fourth,2023-08-28,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,7,0,NA,NA,0,0 urchins; small white whelk; dead - Clay found label
+fourth,2023-08-28,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,7,0,NA,NA,0,0 urchins; small white whelk
+fourth,2023-08-28,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,7,0,NA,NA,0,0 urchins; small white whelk
+fourth,2023-08-28,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,7,0,NA,NA,0,0 urchins; small white whelk
+fourth,2023-08-28,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 10-100 small turbin snails
+fourth,2023-08-28,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 10-100 small turbin snails
+fourth,2023-08-28,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 10-100 small turbin snails
+fourth,2023-08-28,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 10-100 small turbin snails
+fourth,2023-08-28,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 10-100 small turbin snails
+fourth,2023-08-28,Ed King,2C2,2C,2,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C2,2C,2,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C2,2C,2,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C2,2C,2,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C2,2C,2,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,C2,Control,2,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-28,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 natural recruits bitten off; 0 urchins
+fourth,2023-08-28,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 natural recruits bitten off; 0 urchins
+fourth,2023-08-28,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 natural recruits bitten off; 0 urchins
+fourth,2023-08-28,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 natural recruits bitten off; 0 urchins
+fourth,2023-08-28,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 natural recruits bitten off; 0 urchins
+fourth,2023-08-28,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,C3,Control,3,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,0,0 urchins; 25% Desmarestia; Laminaria spp
+fourth,2023-08-28,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10W4,10W,4,red,warm,ten,Lauren Dykman,NA,0,NA,NA,17,17 urchins
+fourth,2023-08-28,Ed King,10W4,10W,4,red,warm,ten,Lauren Dykman,NA,0,NA,NA,17,17 urchins
+fourth,2023-08-28,Ed King,10W4,10W,4,red,warm,ten,Lauren Dykman,NA,0,NA,NA,17,17 urchins
+fourth,2023-08-28,Ed King,10W4,10W,4,red,warm,ten,Lauren Dykman,NA,0,NA,NA,17,17 urchins
+fourth,2023-08-28,Ed King,10W4,10W,4,red,warm,ten,Lauren Dykman,NA,0,NA,NA,17,17 urchins
+fourth,2023-08-28,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2C4,Control,4,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins
+fourth,2023-08-28,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+fourth,2023-08-28,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+fourth,2023-08-28,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+fourth,2023-08-28,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+fourth,2023-08-28,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+fourth,2023-08-28,Ed King,C5,Control,5,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+fourth,2023-08-28,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins
+fourth,2023-08-28,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins
+fourth,2023-08-28,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins
+fourth,2023-08-28,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins
+fourth,2023-08-28,Ed King,10C6,10C,6,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins
+fourth,2023-08-28,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+fourth,2023-08-28,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+fourth,2023-08-28,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+fourth,2023-08-28,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+fourth,2023-08-28,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+fourth,2023-08-28,Ed King,2C6,2C,6,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2C6,2C,6,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2C6,2C,6,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2C6,2C,6,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2C6,2C,6,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,12,12 urchins
+fourth,2023-08-28,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,12,12 urchins
+fourth,2023-08-28,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,12,12 urchins
+fourth,2023-08-28,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,12,12 urchins
+fourth,2023-08-28,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,12,12 urchins
+fourth,2023-08-28,Ed King,C6,Control,6,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+fourth,2023-08-28,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,11,11 urchins; 25% Desmarestia
+fourth,2023-08-28,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+fourth,2023-08-28,Ed King,2W7,2W,7,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin; lots of Desmarestia
+fourth,2023-08-28,Ed King,2W7,2W,7,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin; lots of Desmarestia
+fourth,2023-08-28,Ed King,2W7,2W,7,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin; lots of Desmarestia
+fourth,2023-08-28,Ed King,2W7,2W,7,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin; lots of Desmarestia
+fourth,2023-08-28,Ed King,2W7,2W,7,orange,warm,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin; lots of Desmarestia
+fourth,2023-08-28,Ed King,C7,Control,7,yellow,NA,NA,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+fourth,2023-08-28,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,7,7 urchins
+fourth,2023-08-28,Ed King,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-28,Ed King,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-28,Ed King,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-28,Ed King,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-28,Ed King,10W8,10W,8,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+fourth,2023-08-28,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,10,10 urchins
+fourth,2023-08-28,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,10,10 urchins
+fourth,2023-08-28,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,10,10 urchins
+fourth,2023-08-28,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,10,10 urchins
+fourth,2023-08-28,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,10,10 urchins
+fourth,2023-08-28,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,2W8,2W,8,orange,warm,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+fourth,2023-08-28,Ed King,C8,Control,8,,NA,NA,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+second,2023-05-17,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,17,7,65,NA,0,0 urchins. One outside plot moved back in.
+second,2023-05-17,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,17,7,80,12,0,0 urchins. One outside plot moved back in.
+second,2023-05-17,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,17,7,110,8,0,0 urchins. One outside plot moved back in.
+second,2023-05-17,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,17,7,395,25,0,0 urchins. One outside plot moved back in.
+second,2023-05-17,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,17,7,560,50,0,0 urchins. One outside plot moved back in.
+second,2023-05-17,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,13,2,480,NA,0,
+second,2023-05-17,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,13,2,490,NA,0,
+second,2023-05-17,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,13,2,NA,NA,0,
+second,2023-05-17,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,13,2,NA,NA,0,
+second,2023-05-17,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,13,2,NA,NA,0,
+second,2023-05-17,Dixon,2C1,2C,1,blue,cool,two,Carolyn McKinnon,16,1,973,56,0,0 urchins.
+second,2023-05-17,Dixon,2C1,2C,1,blue,cool,two,Carolyn McKinnon,16,1,NA,NA,0,0 urchins.
+second,2023-05-17,Dixon,2C1,2C,1,blue,cool,two,Carolyn McKinnon,16,1,NA,NA,0,0 urchins.
+second,2023-05-17,Dixon,2C1,2C,1,blue,cool,two,Carolyn McKinnon,16,1,NA,NA,0,0 urchins.
+second,2023-05-17,Dixon,2C1,2C,1,blue,cool,two,Carolyn McKinnon,16,1,NA,NA,0,0 urchins.
+second,2023-05-17,Dixon,2W1,2W,1,orange,warm,two,Carolyn McKinnon,15,6,317,15,0,In a kelp forest. 0 urchins.
+second,2023-05-17,Dixon,2W1,2W,1,orange,warm,two,Carolyn McKinnon,15,6,378,9,0,In a kelp forest. 0 urchins.
+second,2023-05-17,Dixon,2W1,2W,1,orange,warm,two,Carolyn McKinnon,15,6,420,49,0,In a kelp forest. 0 urchins.
+second,2023-05-17,Dixon,2W1,2W,1,orange,warm,two,Carolyn McKinnon,15,6,454,13,0,In a kelp forest. 0 urchins.
+second,2023-05-17,Dixon,2W1,2W,1,orange,warm,two,Carolyn McKinnon,15,6,728,42,0,In a kelp forest. 0 urchins.
+second,2023-05-17,Dixon,C1,Control,1,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,"fallen blades from macro bed, no new recruits"
+second,2023-05-17,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,15,11,320,NA,0,1 large agarum
+second,2023-05-17,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,15,11,340,NA,0,1 large agarum
+second,2023-05-17,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,15,11,390,NA,0,1 large agarum
+second,2023-05-17,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,15,11,610,NA,0,1 large agarum
+second,2023-05-17,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,15,11,820,NA,0,1 large agarum
+second,2023-05-17,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,13,6,80,NA,0,covered by macro bed
+second,2023-05-17,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,13,6,100,NA,0,covered by macro bed
+second,2023-05-17,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,13,6,130,NA,0,covered by macro bed
+second,2023-05-17,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,13,6,210,NA,0,covered by macro bed
+second,2023-05-17,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,13,6,280,NA,0,covered by macro bed
+second,2023-05-17,Dixon,2C2,2C,2,NA,cool,two,Lauren Dykman,14,10,250,NA,0,
+second,2023-05-17,Dixon,2C2,2C,2,NA,cool,two,Lauren Dykman,14,10,280,NA,0,
+second,2023-05-17,Dixon,2C2,2C,2,NA,cool,two,Lauren Dykman,14,10,300,NA,0,
+second,2023-05-17,Dixon,2C2,2C,2,NA,cool,two,Lauren Dykman,14,10,550,NA,0,
+second,2023-05-17,Dixon,2C2,2C,2,NA,cool,two,Lauren Dykman,14,10,570,NA,0,
+second,2023-05-17,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,12,10,300,25,0,0 urchins.
+second,2023-05-17,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,12,10,470,NA,0,0 urchins.
+second,2023-05-17,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,12,10,530,35,0,0 urchins.
+second,2023-05-17,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,12,10,550,28,0,0 urchins.
+second,2023-05-17,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,12,10,940,45,0,0 urchins.
+second,2023-05-17,Dixon,C2,Control,2,yellow,NA,NA,Carolyn McKinnon,NA,NA,NA,NA,0,"5 natural settlers. Lengths 75mm, 77mm, 82mm, 100mm, 102mm. Could be saccharina."
+second,2023-05-17,Dixon,10C3,10C,3,green,cool,ten,Carolyn McKinnon,8,1,,47,0,0 urchins. 1 RIL + 1 BIL
+second,2023-05-17,Dixon,10C3,10C,3,green,cool,ten,Carolyn McKinnon,8,1,,NA,0,0 urchins. 1 RIL + 1 BIL
+second,2023-05-17,Dixon,10C3,10C,3,green,cool,ten,Carolyn McKinnon,8,1,,NA,0,0 urchins. 1 RIL + 1 BIL
+second,2023-05-17,Dixon,10C3,10C,3,green,cool,ten,Carolyn McKinnon,8,1,,NA,0,0 urchins. 1 RIL + 1 BIL
+second,2023-05-17,Dixon,10C3,10C,3,green,cool,ten,Carolyn McKinnon,8,1,,NA,0,0 urchins. 1 RIL + 1 BIL
+second,2023-05-17,Dixon,10W3,10W,3,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,
+second,2023-05-17,Dixon,10W3,10W,3,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,
+second,2023-05-17,Dixon,10W3,10W,3,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,
+second,2023-05-17,Dixon,10W3,10W,3,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,
+second,2023-05-17,Dixon,10W3,10W,3,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,
+second,2023-05-17,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,8,2,240,NA,0,1 large agarum
+second,2023-05-17,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,8,2,320,NA,0,1 large agarum
+second,2023-05-17,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,8,2,NA,NA,0,
+second,2023-05-17,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,8,2,NA,NA,0,
+second,2023-05-17,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,8,2,NA,NA,0,
+second,2023-05-17,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,13,1,16,NA,0,"3 agarum, turf algae"
+second,2023-05-17,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,13,1,NA,NA,0,"3 agarum, turf algae"
+second,2023-05-17,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,13,1,NA,NA,0,"3 agarum, turf algae"
+second,2023-05-17,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,13,1,NA,NA,0,"3 agarum, turf algae"
+second,2023-05-17,Dixon,2W3,2W,3,orange,warm,two,Clay Steell,13,1,NA,NA,0,"3 agarum, turf algae"
+second,2023-05-17,Dixon,C3,Control,3,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,1 recruit
+second,2023-05-17,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,11,5,230,NA,0,
+second,2023-05-17,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,11,5,290,NA,0,
+second,2023-05-17,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,11,5,346,NA,0,
+second,2023-05-17,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,11,5,350,NA,0,
+second,2023-05-17,Dixon,10C4,10C,4,green,cool,ten,Lauren Dykman,11,5,390,NA,0,
+second,2023-05-17,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,18,3,235,NA,0,
+second,2023-05-17,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,18,3,440,NA,0,bleached end
+second,2023-05-17,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,18,3,590,NA,0,bleached end
+second,2023-05-17,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,18,3,NA,NA,0,
+second,2023-05-17,Dixon,10W4,10W,4,red,warm,ten,Lauren Dykman,18,3,NA,NA,0,
+second,2023-05-19,Dixon,2C4,2C,4,blue,cool,two,Clay Steell,16,3,75,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2C4,2C,4,blue,cool,two,Clay Steell,16,3,80,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2C4,2C,4,blue,cool,two,Clay Steell,16,3,95,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2C4,2C,4,blue,cool,two,Clay Steell,16,3,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2C4,2C,4,blue,cool,two,Clay Steell,16,3,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,11,0,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,11,0,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,11,0,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,11,0,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-19,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,11,0,NA,NA,0,"0 urchin, macro cover"
+second,2023-05-17,Dixon,C4,Control,4,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,"prostrate macro, sargassum"
+second,2023-05-17,Dixon,10C5,10C,5,green,cool,ten,Clay Steell,14,0,NA,NA,0,
+second,2023-05-17,Dixon,10C5,10C,5,green,cool,ten,Clay Steell,14,0,NA,NA,0,
+second,2023-05-17,Dixon,10C5,10C,5,green,cool,ten,Clay Steell,14,0,NA,NA,0,
+second,2023-05-17,Dixon,10C5,10C,5,green,cool,ten,Clay Steell,14,0,NA,NA,0,
+second,2023-05-17,Dixon,10C5,10C,5,green,cool,ten,Clay Steell,14,0,NA,NA,0,
+second,2023-05-17,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,17,1,32,NA,0,2 large agarum
+second,2023-05-17,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,17,1,NA,NA,0,2 large agarum
+second,2023-05-17,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,17,1,NA,NA,0,2 large agarum
+second,2023-05-17,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,17,1,NA,NA,0,2 large agarum
+second,2023-05-17,Dixon,10W5,10W,5,red,warm,ten,Clay Steell,17,1,NA,NA,0,2 large agarum
+second,2023-05-17,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,16,3,70,NA,0,2 agarum
+second,2023-05-17,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,16,3,100,NA,0,2 agarum
+second,2023-05-17,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,16,3,360,NA,0,2 agarum
+second,2023-05-17,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,16,3,NA,NA,0,2 agarum
+second,2023-05-17,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,16,3,NA,NA,0,2 agarum
+second,2023-05-17,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,14,0,NA,NA,0,"2 bat star, 1 cucumber"
+second,2023-05-17,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,14,0,NA,NA,0,"2 bat star, 1 cucumber"
+second,2023-05-17,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,14,0,NA,NA,0,"2 bat star, 1 cucumber"
+second,2023-05-17,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,14,0,NA,NA,0,"2 bat star, 1 cucumber"
+second,2023-05-17,Dixon,2W5,2W,5,orange,warm,two,Lauren Dykman,14,0,NA,NA,0,"2 bat star, 1 cucumber"
+second,2023-05-17,Dixon,C5,Control,5,yellow,NA,NA,Carolyn McKinnon,NA,NA,NA,NA,0,0 natural recruits
+second,2023-05-17,Dixon,10C6,10C,6,green,cool,ten,Carolyn McKinnon,19,2,97,NA,0,0 urchins. Big costaria.
+second,2023-05-17,Dixon,10C6,10C,6,green,cool,ten,Carolyn McKinnon,19,2,815,NA,0,0 urchins. Big costaria.
+second,2023-05-17,Dixon,10C6,10C,6,green,cool,ten,Carolyn McKinnon,19,2,NA,NA,0,0 urchins. Big costaria.
+second,2023-05-17,Dixon,10C6,10C,6,green,cool,ten,Carolyn McKinnon,19,2,NA,NA,0,0 urchins. Big costaria.
+second,2023-05-17,Dixon,10C6,10C,6,green,cool,ten,Carolyn McKinnon,19,2,NA,NA,0,0 urchins. Big costaria.
+second,2023-05-17,Dixon,10W6,10W,6,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W6,10W,6,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W6,10W,6,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W6,10W,6,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W6,10W,6,red,warm,ten,Carolyn McKinnon,15,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,15,6,220,NA,0,"0 urchins, nudibranch, pycnopodia"
+second,2023-05-17,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,15,6,270,NA,0,"0 urchins, nudibranch, pycnopodia"
+second,2023-05-17,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,15,6,320,NA,0,"0 urchins, nudibranch, pycnopodia"
+second,2023-05-17,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,15,6,320,NA,0,"0 urchins, nudibranch, pycnopodia"
+second,2023-05-17,Dixon,2C6,2C,6,blue,cool,two,Clay Steell,15,6,420,NA,0,"0 urchins, nudibranch, pycnopodia"
+second,2023-05-17,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,15,0,NA,NA,0,"0 urchins, agarum fronds"
+second,2023-05-17,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,15,0,NA,NA,0,"0 urchins, agarum fronds"
+second,2023-05-17,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,15,0,NA,NA,0,"0 urchins, agarum fronds"
+second,2023-05-17,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,15,0,NA,NA,0,"0 urchins, agarum fronds"
+second,2023-05-17,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,15,0,NA,NA,0,"0 urchins, agarum fronds"
+second,2023-05-17,Dixon,C6,Control,6,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,1 giant kelp recruit on a snail
+second,2023-05-17,Dixon,10C7,10C,7,green,cool,ten,Lauren Dykman,15,0,NA,NA,2,2 urchins
+second,2023-05-17,Dixon,10C7,10C,7,green,cool,ten,Lauren Dykman,15,0,NA,NA,2,2 urchins
+second,2023-05-17,Dixon,10C7,10C,7,green,cool,ten,Lauren Dykman,15,0,NA,NA,2,2 urchins
+second,2023-05-17,Dixon,10C7,10C,7,green,cool,ten,Lauren Dykman,15,0,NA,NA,2,2 urchins
+second,2023-05-17,Dixon,10C7,10C,7,green,cool,ten,Lauren Dykman,15,0,NA,NA,2,2 urchins
+second,2023-05-17,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,16,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,16,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,16,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,16,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,10W7,10W,7,red,warm,ten,Lauren Dykman,16,0,NA,NA,0,0 urchins
+second,2023-05-17,Dixon,2C7,2C,7,blue,cool,two,Carolyn McKinnon,16,0,NA,NA,1,1 urchin.
+second,2023-05-17,Dixon,2C7,2C,7,blue,cool,two,Carolyn McKinnon,16,0,NA,NA,1,1 urchin.
+second,2023-05-17,Dixon,2C7,2C,7,blue,cool,two,Carolyn McKinnon,16,0,NA,NA,1,1 urchin.
+second,2023-05-17,Dixon,2C7,2C,7,blue,cool,two,Carolyn McKinnon,16,0,NA,NA,1,1 urchin.
+second,2023-05-17,Dixon,2C7,2C,7,blue,cool,two,Carolyn McKinnon,16,0,NA,NA,1,1 urchin.
+second,2023-05-17,Dixon,2W7,2W,7,orange,warm,two,Carolyn McKinnon,14,0,NA,NA,1,1 urchin. Desmarestia on bag.
+second,2023-05-17,Dixon,2W7,2W,7,orange,warm,two,Carolyn McKinnon,14,0,NA,NA,1,1 urchin. Desmarestia on bag.
+second,2023-05-17,Dixon,2W7,2W,7,orange,warm,two,Carolyn McKinnon,14,0,NA,NA,1,1 urchin. Desmarestia on bag.
+second,2023-05-17,Dixon,2W7,2W,7,orange,warm,two,Carolyn McKinnon,14,0,NA,NA,1,1 urchin. Desmarestia on bag.
+second,2023-05-17,Dixon,2W7,2W,7,orange,warm,two,Carolyn McKinnon,14,0,NA,NA,1,1 urchin. Desmarestia on bag.
+second,2023-05-17,Dixon,C7,Control,7,yellow,NA,NA,Clay Steell,NA,NA,470,NA,0,large log in plot
+second,2023-05-17,Dixon,10C8,10C,8,green,cool,ten,Clay Steell,16,7,500,NA,0,large holdfasts
+second,2023-05-17,Dixon,10C8,10C,8,green,cool,ten,Clay Steell,16,7,510,NA,0,large holdfasts
+second,2023-05-17,Dixon,10C8,10C,8,green,cool,ten,Clay Steell,16,7,530,NA,0,large holdfasts
+second,2023-05-17,Dixon,10C8,10C,8,green,cool,ten,Clay Steell,16,7,540,NA,0,large holdfasts
+second,2023-05-17,Dixon,10C8,10C,8,green,cool,ten,Clay Steell,16,7,910,NA,0,large holdfasts
+second,2023-05-17,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,14,1,125,NA,0,1.2m wild macro blade
+second,2023-05-17,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,14,1,NA,NA,0,1.2m wild macro blade
+second,2023-05-17,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,14,1,NA,NA,0,1.2m wild macro blade
+second,2023-05-17,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,14,1,NA,NA,0,1.2m wild macro blade
+second,2023-05-17,Dixon,10W8,10W,8,red,warm,ten,Clay Steell,14,1,NA,NA,0,1.2m wild macro blade
+second,2023-05-17,Dixon,2C8,2C,8,blue,cool,two,Lauren Dykman,18,0,NA,NA,0,1 natural recruit
+second,2023-05-17,Dixon,2C8,2C,8,blue,cool,two,Lauren Dykman,18,0,NA,NA,0,1 natural recruit
+second,2023-05-17,Dixon,2C8,2C,8,blue,cool,two,Lauren Dykman,18,0,NA,NA,0,1 natural recruit
+second,2023-05-17,Dixon,2C8,2C,8,blue,cool,two,Lauren Dykman,18,0,NA,NA,0,1 natural recruit
+second,2023-05-17,Dixon,2C8,2C,8,blue,cool,two,Lauren Dykman,18,0,NA,NA,0,1 natural recruit
+second,2023-05-17,Dixon,2W8,2W,8,orange,warm,two,Lauren Dykman,12,11,620,30,0,kelp fish
+second,2023-05-17,Dixon,2W8,2W,8,orange,warm,two,Lauren Dykman,12,11,640,45,0,kelp fish
+second,2023-05-17,Dixon,2W8,2W,8,orange,warm,two,Lauren Dykman,12,11,760,30,0,kelp fish
+second,2023-05-17,Dixon,2W8,2W,8,orange,warm,two,Lauren Dykman,12,11,800,60,0,kelp fish
+second,2023-05-17,Dixon,2W8,2W,8,orange,warm,two,Lauren Dykman,12,11,1150,50,0,kelp fish
+second,2023-05-17,Dixon,C8,Control,8,yellow,NA,NA,Carolyn McKinnon,NA,NA,NA,NA,0,0 natural recruits.
+second,2023-05-16,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,12,2,380,NA,0,"thick natural kelp, desom"
+second,2023-05-16,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,12,2,450,NA,0,"thick natural kelp, desom"
+second,2023-05-16,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,12,2,NA,NA,0,"thick natural kelp, desom"
+second,2023-05-16,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,12,2,NA,NA,0,"thick natural kelp, desom"
+second,2023-05-16,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,12,2,NA,NA,0,"thick natural kelp, desom"
+second,2023-05-16,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,10,5,70,5,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,10,5,100,8,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,10,5,120,5,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,10,5,290,12,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,10,5,NA,NA,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,10,5,170,NA,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,10,5,290,NA,0,Estimated survivorship because too much algae cover. No floats yet.
+second,2023-05-16,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,10,5,480,NA,0,Estimated survivorship because too much algae cover. Three floats.
+second,2023-05-16,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,10,5,550,NA,0,Estimated survivorship because too much algae cover. Two floats.
+second,2023-05-16,Ed King,2C1,2C,1,blue,cool,two,Lauren Dykman,10,5,NA,NA,0,Estimated survivorship because too much algae cover.
+second,2023-05-16,Ed King,2W1,2W,1,orange,warm,two,Clay Steell,9,4,60,NA,0,"thick natural kelp, natural macro"
+second,2023-05-16,Ed King,2W1,2W,1,orange,warm,two,Clay Steell,9,4,80,NA,0,"thick natural kelp, natural macro"
+second,2023-05-16,Ed King,2W1,2W,1,orange,warm,two,Clay Steell,9,4,330,NA,0,"thick natural kelp, natural macro"
+second,2023-05-16,Ed King,2W1,2W,1,orange,warm,two,Clay Steell,9,4,610,NA,0,"thick natural kelp, natural macro"
+second,2023-05-16,Ed King,2W1,2W,1,orange,warm,two,Clay Steell,9,4,NA,NA,0,"thick natural kelp, natural macro"
+second,2023-05-16,Ed King,C1,Control,1,yellow,NA,NA,Lauren Dykman,NA,NA,670,90,0,9 natural kelp recruits. Measured one that had 6 floats.
+second,2023-05-16,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,NA,3,410,NA,0,too covered in algae to see gravels. Saw 3 kelps growing from green gravel but could not estimate survivorship.
+second,2023-05-16,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,NA,3,570,NA,0,too covered in algae to see gravels. Saw 3 kelps growing from green gravel but could not estimate survivorship.
+second,2023-05-16,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,NA,3,NA,NA,0,too covered in algae to see gravels. Saw 3 kelps growing from green gravel but could not estimate survivorship.
+second,2023-05-16,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,NA,3,NA,NA,0,too covered in algae to see gravels. Saw 3 kelps growing from green gravel but could not estimate survivorship.
+second,2023-05-16,Ed King,10C2,10C,2,green,cool,ten,Lauren Dykman,NA,3,NA,NA,0,too covered in algae to see gravels. Saw 3 kelps growing from green gravel but could not estimate survivorship.
+second,2023-05-16,Ed King,10W2,10W,2,red,warm,ten,Clay Steell,14,4,80,NA,10,10 urchins
+second,2023-05-16,Ed King,10W2,10W,2,red,warm,ten,Clay Steell,14,4,100,NA,10,10 urchins
+second,2023-05-16,Ed King,10W2,10W,2,red,warm,ten,Clay Steell,14,4,110,NA,10,10 urchins
+second,2023-05-16,Ed King,10W2,10W,2,red,warm,ten,Clay Steell,14,4,120,NA,10,10 urchins
+second,2023-05-16,Ed King,10W2,10W,2,red,warm,ten,Clay Steell,14,4,NA,NA,10,10 urchins
+second,2023-05-16,Ed King,2C2,2C,2,blue,cool,two,Clay Steell,15,0,NA,NA,0,
+second,2023-05-16,Ed King,2C2,2C,2,blue,cool,two,Clay Steell,15,0,NA,NA,0,
+second,2023-05-16,Ed King,2C2,2C,2,blue,cool,two,Clay Steell,15,0,NA,NA,0,
+second,2023-05-16,Ed King,2C2,2C,2,blue,cool,two,Clay Steell,15,0,NA,NA,0,
+second,2023-05-16,Ed King,2C2,2C,2,blue,cool,two,Clay Steell,15,0,NA,NA,0,
+second,2023-05-16,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,16,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,16,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,16,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,16,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W2,2W,2,orange,warm,two,Lauren Dykman,16,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,C2,Control,2,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,6,6 urchins
+second,2023-05-18,Ed King,10C3,10C,3,green,cool,ten,Clay Steell,9,6,80,NA,4,"4 urchins, grazed"
+second,2023-05-18,Ed King,10C3,10C,3,green,cool,ten,Clay Steell,9,6,160,NA,4,"4 urchins, grazed"
+second,2023-05-18,Ed King,10C3,10C,3,green,cool,ten,Clay Steell,9,6,200,NA,4,"4 urchins, grazed"
+second,2023-05-18,Ed King,10C3,10C,3,green,cool,ten,Clay Steell,9,6,680,NA,4,"4 urchins, grazed"
+second,2023-05-18,Ed King,10C3,10C,3,green,cool,ten,Clay Steell,9,6,1250,NA,4,"4 urchins, grazed"
+second,2023-05-16,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,16,0,NA,NA,4,"4 urchins, 1 star"
+second,2023-05-16,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,16,0,NA,NA,4,"4 urchins, 1 star"
+second,2023-05-16,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,16,0,NA,NA,4,"4 urchins, 1 star"
+second,2023-05-16,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,16,0,NA,NA,4,"4 urchins, 1 star"
+second,2023-05-16,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,16,0,NA,NA,4,"4 urchins, 1 star"
+second,2023-05-16,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,17,0,NA,NA,1,1 urchin
+second,2023-05-16,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,17,0,NA,NA,1,1 urchin
+second,2023-05-16,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,17,0,NA,NA,1,1 urchin
+second,2023-05-16,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,17,0,NA,NA,1,1 urchin
+second,2023-05-16,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,17,0,NA,NA,1,1 urchin
+second,2023-05-18,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,11,3,200,NA,6,"6 urchins, grazed"
+second,2023-05-18,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,11,3,230,NA,6,"6 urchins, grazed"
+second,2023-05-18,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,11,3,1110,NA,6,"6 urchins, grazed"
+second,2023-05-18,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,11,3,NA,NA,6,"6 urchins, grazed"
+second,2023-05-18,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,11,3,NA,NA,6,"6 urchins, grazed"
+second,2023-05-18,Ed King,C3,Control,3,orange,NA,NA,Avril Hann,NA,NA,895,NA,0,"1 natural recruit, chondrocanthus, desmarestia, nereocystis"
+second,2023-05-18,Ed King,10C4,10C,4,green,cool,ten,Avril Hann,16,0,NA,NA,0,9 tiny pycnopodia
+second,2023-05-18,Ed King,10C4,10C,4,green,cool,ten,Avril Hann,16,0,NA,NA,0,9 tiny pycnopodia
+second,2023-05-18,Ed King,10C4,10C,4,green,cool,ten,Avril Hann,16,0,NA,NA,0,9 tiny pycnopodia
+second,2023-05-18,Ed King,10C4,10C,4,green,cool,ten,Avril Hann,16,0,NA,NA,0,9 tiny pycnopodia
+second,2023-05-18,Ed King,10C4,10C,4,green,cool,ten,Avril Hann,16,0,NA,NA,0,9 tiny pycnopodia
+second,2023-05-18,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,14,0,NA,NA,6,6 urchins
+second,2023-05-18,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,14,0,NA,NA,6,6 urchins
+second,2023-05-18,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,14,0,NA,NA,6,6 urchins
+second,2023-05-18,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,14,0,NA,NA,6,6 urchins
+second,2023-05-18,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,14,0,NA,NA,6,6 urchins
+second,2023-05-18,Ed King,C4,2C,4,yellow,cool,two,Clay Steell,17,0,NA,NA,0,mistake? Bags moved
+second,2023-05-18,Ed King,C4,2C,4,yellow,cool,two,Clay Steell,17,0,NA,NA,0,mistake? Bags moved
+second,2023-05-18,Ed King,C4,2C,4,yellow,cool,two,Clay Steell,17,0,NA,NA,0,mistake? Bags moved
+second,2023-05-18,Ed King,C4,2C,4,yellow,cool,two,Clay Steell,17,0,NA,NA,0,mistake? Bags moved
+second,2023-05-18,Ed King,C4,2C,4,yellow,cool,two,Clay Steell,17,0,NA,NA,0,mistake? Bags moved
+second,2023-05-16,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,17,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,17,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,17,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,17,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2W4,2W,4,orange,warm,two,Lauren Dykman,17,0,NA,NA,7,7 urchins
+second,2023-05-18,Ed King,2C4,Control,4,blue,NA,NA,Avril Hann,NA,NA,NA,NA,10,"10 urchins, no wild recruits"
+second,2023-05-18,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,13,0,NA,NA,7,7 urchins
+second,2023-05-18,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,13,0,NA,NA,7,7 urchins
+second,2023-05-18,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,13,0,NA,NA,7,7 urchins
+second,2023-05-18,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,13,0,NA,NA,7,7 urchins
+second,2023-05-18,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,13,0,NA,NA,7,7 urchins
+second,2023-05-18,Ed King,10W5,10W,5,red,warm,ten,Avril Hann,12,0,NA,NA,0,2 kelp crabs
+second,2023-05-18,Ed King,10W5,10W,5,red,warm,ten,Avril Hann,12,0,NA,NA,0,2 kelp crabs
+second,2023-05-18,Ed King,10W5,10W,5,red,warm,ten,Avril Hann,12,0,NA,NA,0,2 kelp crabs
+second,2023-05-18,Ed King,10W5,10W,5,red,warm,ten,Avril Hann,12,0,NA,NA,0,2 kelp crabs
+second,2023-05-18,Ed King,10W5,10W,5,red,warm,ten,Avril Hann,12,0,NA,NA,0,2 kelp crabs
+second,2023-05-16,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,18,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,18,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,18,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,18,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2C5,2C,5,blue,cool,two,Lauren Dykman,18,0,NA,NA,5,5 urchins
+second,2023-05-18,Ed King,2W5,2W,5,orange,warm,two,Avril Hann,16,0,NA,NA,8,8 urchins + more around plot
+second,2023-05-18,Ed King,2W5,2W,5,orange,warm,two,Avril Hann,16,0,NA,NA,8,8 urchins + more around plot
+second,2023-05-18,Ed King,2W5,2W,5,orange,warm,two,Avril Hann,16,0,NA,NA,8,8 urchins + more around plot
+second,2023-05-18,Ed King,2W5,2W,5,orange,warm,two,Avril Hann,16,0,NA,NA,8,8 urchins + more around plot
+second,2023-05-18,Ed King,2W5,2W,5,orange,warm,two,Avril Hann,16,0,NA,NA,8,8 urchins + more around plot
+second,2023-05-16,Ed King,C5,Control,5,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,6,"6 urchins, 0 new recruits"
+second,2023-05-16,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,11,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,11,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,11,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,11,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,11,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,16,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,16,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,16,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,16,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,16,0,NA,NA,7,7 urchins
+second,2023-05-16,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,15,0,NA,NA,3,3 urchins
+second,2023-05-16,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,15,0,NA,NA,3,3 urchins
+second,2023-05-16,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,15,0,NA,NA,3,3 urchins
+second,2023-05-16,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,15,0,NA,NA,3,3 urchins
+second,2023-05-16,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,15,0,NA,NA,3,3 urchins
+second,2023-05-16,Ed King,C6,Control,6,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,0,0 recruits
+second,2023-05-16,Ed King,10C7,10C,7,green,cool,ten,Clay Steell,18,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C7,10C,7,green,cool,ten,Clay Steell,18,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C7,10C,7,green,cool,ten,Clay Steell,18,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C7,10C,7,green,cool,ten,Clay Steell,18,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C7,10C,7,green,cool,ten,Clay Steell,18,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,14,0,NA,NA,8,8 urchins
+second,2023-05-16,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,14,0,NA,NA,8,8 urchins
+second,2023-05-16,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,14,0,NA,NA,8,8 urchins
+second,2023-05-16,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,14,0,NA,NA,8,8 urchins
+second,2023-05-16,Ed King,10W7,10W,7,red,warm,ten,Lauren Dykman,14,0,NA,NA,8,8 urchins
+second,2023-05-16,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,14,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,14,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,14,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,14,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,14,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,12,2,14,NA,25,25 urchins
+second,2023-05-16,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,12,2,25,NA,25,has been grazed. 25 urchins
+second,2023-05-16,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,12,2,NA,NA,25,25 urchins
+second,2023-05-16,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,12,2,NA,NA,25,25 urchins
+second,2023-05-16,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,12,2,NA,NA,25,25 urchins
+second,2023-05-16,Ed King,C7,Control,7,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,0 natural recruits
+second,2023-05-16,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,15,0,NA,NA,1,1 gravel outside of plot; 1 urchin
+second,2023-05-16,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,15,0,NA,NA,1,1 gravel outside of plot; 1 urchin
+second,2023-05-16,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,15,0,NA,NA,1,1 gravel outside of plot; 1 urchin
+second,2023-05-16,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,15,0,NA,NA,1,1 gravel outside of plot; 1 urchin
+second,2023-05-16,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,15,0,NA,NA,1,1 gravel outside of plot; 1 urchin
+second,2023-05-16,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,7,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,7,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,7,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,7,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2C8,2C,8,blue,cool,two,Clay Steell,7,0,NA,NA,4,4 urchins
+second,2023-05-16,Ed King,2W8,2W,8,blue,warm,two,Lauren Dykman,14,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W8,2W,8,blue,warm,two,Lauren Dykman,14,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W8,2W,8,blue,warm,two,Lauren Dykman,14,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W8,2W,8,blue,warm,two,Lauren Dykman,14,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,2W8,2W,8,blue,warm,two,Lauren Dykman,14,0,NA,NA,5,5 urchins
+second,2023-05-16,Ed King,C8,Control,8,yellow,NA,NA,Clay Steell,NA,NA,NA,NA,5,5 urchins
+third,2023-06-27,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,10,3,120,8,0,too tiny to collect
+third,2023-06-27,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,10,3,1590,50,0,
+third,2023-06-27,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,10,3,NA,NA,0,
+third,2023-06-27,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,10,3,NA,NA,0,
+third,2023-06-27,Dixon,10C1,10C,1,green,cool,ten,Lauren Dykman,10,3,NA,NA,0,
+third,2023-06-27,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,10,2,340,25,0,"0 urchins. 1 large wild set, 1 small wild set on a snail. 0 bulbs, 2 blades, 2 stipes. Upright, blade collected."
+third,2023-06-27,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,10,2,760,20,0,"0 urchins. 1 large wild set, 1 small wild set on a snail. 0 bulbs, 3 blades, 1 stipe. Prostrate, blade collected."
+third,2023-06-27,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,10,2,NA,NA,0,"0 urchins. 1 large wild set, 1 small wild set on a snail."
+third,2023-06-27,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,10,2,NA,NA,0,"0 urchins. 1 large wild set, 1 small wild set on a snail."
+third,2023-06-27,Dixon,10W1,10W,1,red,warm,ten,Lauren Dykman,10,2,NA,NA,0,"0 urchins. 1 large wild set, 1 small wild set on a snail."
+third,2023-06-28,Dixon,2C1,2C,1,blue,cool,two,Lauren Dykman,9,1,270,30,1,"1 urchin. 0 bulbs, 3 blades, 1 stipe, upright, blade collected."
+third,2023-06-28,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,9,1,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,9,1,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,9,1,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C1,2C,1,blue,cool,two,Clay Steell,9,1,NA,NA,1,1 urchin
+third,2023-06-27,Dixon,2W1,2W,1,orange,warm,two,Clay Steell,13,6,290,NA,0,"Only one blade left, did not collect. 0 bulbs, 1 blade, 1 stipe."
+third,2023-06-27,Dixon,2W1,2W,1,orange,warm,two,Clay Steell,13,6,645,15,0,"Detatched from gravel and burried; 0 bulbs, 3 blades, 1 stipe, blade collected."
+third,2023-06-27,Dixon,2W1,2W,1,orange,warm,two,Clay Steell,13,6,700,15,0,"0 bulbs, 7 blades, 3 stipes, blade collected."
+third,2023-06-27,Dixon,2W1,2W,1,orange,warm,two,Clay Steell,13,6,780,10,0,"Only two blades left, not collected; 0 bulbs, 3 blades, 1 stipe."
+third,2023-06-27,Dixon,2W1,2W,1,orange,warm,two,Clay Steell,13,6,815,5,0,"Only two blades left, blade not collected; 0 bulbs, 2 blades, 1 stipe."
+third,2023-06-27,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,12,1,195,40,1,1 urchin
+third,2023-06-27,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,12,1,NA,NA,1,1 urchin
+third,2023-06-27,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,12,1,NA,NA,1,1 urchin
+third,2023-06-27,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,12,1,NA,NA,1,1 urchin
+third,2023-06-27,Dixon,10C2,10C,2,green,cool,ten,Clay Steell,12,1,NA,NA,1,1 urchin
+third,2023-06-27,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,18,5,10,NA,0,"too small to collect blade, holdfast burried"
+third,2023-06-27,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,18,5,230,NA,0,"too small to collect blade, holdfast burried"
+third,2023-06-27,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,18,5,600,20,0,
+third,2023-06-27,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,18,5,940,NA,0,"3 stipes, 5 blades, 0 bulb"
+third,2023-06-27,Dixon,10W2,10W,2,red,warm,ten,Clay Steell,18,5,1080,45,0,"1 meter out of plot, Clay burried it."
+third,2023-06-27,Dixon,2C2,2C,2,blue,cool,two,Clay Steell,14,7,250,10,0,"sample in bag from different kelp. 0 bulbs, 3 blades, 3 stipes, blade collected. Not sure if these measurements are for 2W2#2."
+third,2023-06-27,Dixon,2C2,2C,2,blue,cool,two,Clay Steell,14,7,540,NA,0,"Burried. 3 bulbs, 4 blades, 1 stipe, upright, blade collected."
+third,2023-06-27,Dixon,2C2,2C,2,blue,cool,two,Clay Steell,14,7,590,45,0,"Loose, burried it. 4 bulbs, 5 blades, 2 stipes, upright. Blade collected."
+third,2023-06-27,Dixon,2C2,2C,2,blue,cool,two,Lauren Dykman,14,7,620,50,0,
+third,2023-06-27,Dixon,2C2,2C,2,blue,cool,two,Lauren Dykman,14,7,690,50,0,
+third,2023-06-27,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,11,6,110,NA,2,"0 bulbs, 2 blades, 2 stipes, upright, no blade collected."
+third,2023-06-27,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,11,6,135,15,2,"0 bulbs, 2 blades, 2 stipes, upright, blade collected."
+third,2023-06-27,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,11,6,210,NA,2,No blade collected
+third,2023-06-27,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,11,6,260,20,2,"0 bulbs, 2 blades, 2 stipes, upright, no blade collected."
+third,2023-06-27,Dixon,2W2,2W,2,orange,warm,two,Lauren Dykman,11,6,820,60,2,"Outside plot by 1 meter. Measured next day. Being eaten by two urchins. 6 bulbs, 6 blades, 2 stipes. Upright, blade collected."
+third,2023-06-27,Dixon,10C3,10C,3,blue,cool,ten,Lauren Dykman,12,0,NA,NA,0,"0 urchins, 0 natural recruits. Other bleached small algae."
+third,2023-06-27,Dixon,10C3,10C,3,blue,cool,ten,Lauren Dykman,12,0,NA,NA,0,"0 urchins, 0 natural recruits. Other bleached small algae."
+third,2023-06-27,Dixon,10C3,10C,3,blue,cool,ten,Lauren Dykman,12,0,NA,NA,0,"0 urchins, 0 natural recruits. Other bleached small algae."
+third,2023-06-27,Dixon,10C3,10C,3,blue,cool,ten,Lauren Dykman,12,0,NA,NA,0,"0 urchins, 0 natural recruits. Other bleached small algae."
+third,2023-06-27,Dixon,10C3,10C,3,blue,cool,ten,Lauren Dykman,12,0,NA,NA,0,"0 urchins, 0 natural recruits. Other bleached small algae."
+third,2023-06-27,Dixon,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,"0 urchins, 1 star that looks like spikey Pisaster, 1 large moon snail, wild fronds over plot"
+third,2023-06-27,Dixon,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,"0 urchins, 1 star that looks like spikey Pisaster, 1 large moon snail, wild fronds over plot"
+third,2023-06-27,Dixon,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,"0 urchins, 1 star that looks like spikey Pisaster, 1 large moon snail, wild fronds over plot"
+third,2023-06-27,Dixon,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,"0 urchins, 1 star that looks like spikey Pisaster, 1 large moon snail, wild fronds over plot"
+third,2023-06-27,Dixon,10W3,10W,3,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,"0 urchins, 1 star that looks like spikey Pisaster, 1 large moon snail, wild fronds over plot"
+third,2023-06-27,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,7,2,115,20,0,"0 urchins. 0 bulbs, 5 blades, 1 stipe, blade collected"
+third,2023-06-27,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,7,2,210,15,0,"0 urchins. 0 bulbs, 1 stipe, blade collected."
+third,2023-06-27,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,7,2,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,7,2,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C3,2C,3,blue,cool,two,Clay Steell,7,2,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,Tags rubbed of next to blue plot also without a tag.
+third,2023-06-27,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,Tags rubbed of next to blue plot also without a tag.
+third,2023-06-27,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,Tags rubbed of next to blue plot also without a tag.
+third,2023-06-27,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,Tags rubbed of next to blue plot also without a tag.
+third,2023-06-27,Dixon,2W3,2W,3,orange,warm,two,Lauren Dykman,12,0,NA,NA,0,Tags rubbed of next to blue plot also without a tag.
+third,2023-06-27,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,9,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,9,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,9,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,9,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10C4,10C,4,green,cool,ten,Clay Steell,9,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10W4,10W,4,NA,warm,ten,Clay Steell,11,2,260,10,0,"0 urchins, several blades on scimites. 0 bulbs, 1 blade, 2 stipes, blade collected."
+third,2023-06-27,Dixon,10W4,10W,4,NA,warm,ten,Clay Steell,11,2,310,5,0,"0 urchins, 0 bulbs, 1 blade, no blade collected, only 1 blade left."
+third,2023-06-27,Dixon,10W4,10W,4,NA,warm,ten,Clay Steell,11,2,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10W4,10W,4,NA,warm,ten,Clay Steell,11,2,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10W4,10W,4,NA,warm,ten,Clay Steell,11,2,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C4,2C,4,blue,cool,two,Lauren Dykman,10,0,NA,NA,0,0 urchins. Kelp in plot is bleached.
+third,2023-06-27,Dixon,2C4,2C,4,blue,cool,two,Lauren Dykman,10,0,NA,NA,0,0 urchins. Kelp in plot is bleached.
+third,2023-06-27,Dixon,2C4,2C,4,blue,cool,two,Lauren Dykman,10,0,NA,NA,0,0 urchins. Kelp in plot is bleached.
+third,2023-06-27,Dixon,2C4,2C,4,blue,cool,two,Lauren Dykman,10,0,NA,NA,0,0 urchins. Kelp in plot is bleached.
+third,2023-06-27,Dixon,2C4,2C,4,blue,cool,two,Lauren Dykman,10,0,NA,NA,0,0 urchins. Kelp in plot is bleached.
+third,2023-06-27,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins. 3 urchins just outside plot.
+third,2023-06-27,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins. 3 urchins just outside plot.
+third,2023-06-27,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins. 3 urchins just outside plot.
+third,2023-06-27,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins. 3 urchins just outside plot.
+third,2023-06-27,Dixon,10C5,10C,5,green,cool,ten,Lauren Dykman,NA,0,NA,NA,0,0 urchins. 3 urchins just outside plot.
+third,2023-06-28,Dixon,10W5,10W,5,red,warm,ten,Lauren Dykman,14,0,NA,NA,4,"4 urchins, 2 cucumbers"
+third,2023-06-28,Dixon,10W5,10W,5,red,warm,ten,Lauren Dykman,14,0,NA,NA,4,"4 urchins, 2 cucumbers"
+third,2023-06-28,Dixon,10W5,10W,5,red,warm,ten,Lauren Dykman,14,0,NA,NA,4,"4 urchins, 2 cucumbers"
+third,2023-06-28,Dixon,10W5,10W,5,red,warm,ten,Lauren Dykman,14,0,NA,NA,4,"4 urchins, 2 cucumbers"
+third,2023-06-28,Dixon,10W5,10W,5,red,warm,ten,Lauren Dykman,14,0,NA,NA,4,"4 urchins, 2 cucumbers"
+third,2023-06-28,Dixon,2C5,2C,5,blue,cool,two,Lauren Dykman,14,1,420,NA,0,"0 urchins. Covered by Agarum. 0 bulbs, 8 blades, 2 stipes, upright, blade collected."
+third,2023-06-28,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,14,1,NA,NA,0,0 urchins. Covered by Agarum
+third,2023-06-28,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,14,1,NA,NA,0,0 urchins. Covered by Agarum
+third,2023-06-28,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,14,1,NA,NA,0,0 urchins. Covered by Agarum
+third,2023-06-28,Dixon,2C5,2C,5,blue,cool,two,Clay Steell,14,1,NA,NA,0,0 urchins. Covered by Agarum
+third,2023-06-27,Dixon,2W5,2W,5,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W5,2W,5,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W5,2W,5,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W5,2W,5,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W5,2W,5,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,16,1,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,16,1,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,16,1,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,16,1,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10C6,10C,6,green,cool,ten,Clay Steell,16,1,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,
+third,2023-06-28,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,
+third,2023-06-28,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,
+third,2023-06-28,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,
+third,2023-06-28,Dixon,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,0,
+third,2023-06-28,Dixon,2C6,2C,6,blue,cool,two,Lauren Dykman,14,0,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C6,2C,6,blue,cool,two,Lauren Dykman,14,0,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C6,2C,6,blue,cool,two,Lauren Dykman,14,0,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C6,2C,6,blue,cool,two,Lauren Dykman,14,0,NA,NA,1,1 urchin
+third,2023-06-28,Dixon,2C6,2C,6,blue,cool,two,Lauren Dykman,14,0,NA,NA,1,1 urchin
+third,2023-06-27,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W6,2W,6,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,C6,Control,6,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,2,2 urchins. No natural recruits.
+third,2023-06-27,Dixon,10C7,10C,7,orange,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-27,Dixon,10C7,10C,7,orange,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-27,Dixon,10C7,10C,7,orange,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-27,Dixon,10C7,10C,7,orange,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-27,Dixon,10C7,10C,7,orange,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-27,Dixon,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,1,"1 urchin, 30cm Pycnopodia"
+third,2023-06-27,Dixon,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,1,"1 urchin, 30cm Pycnopodia"
+third,2023-06-27,Dixon,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,1,"1 urchin, 30cm Pycnopodia"
+third,2023-06-27,Dixon,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,1,"1 urchin, 30cm Pycnopodia"
+third,2023-06-27,Dixon,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,1,"1 urchin, 30cm Pycnopodia"
+third,2023-06-27,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins. No wild kelp.
+third,2023-06-27,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins. No wild kelp.
+third,2023-06-27,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins. No wild kelp.
+third,2023-06-27,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins. No wild kelp.
+third,2023-06-27,Dixon,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,0,0 urchins. No wild kelp.
+third,2023-06-27,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2W7,2W,7,orange,warm,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,10C8,10C,8,green,cool,ten,Clay Steell,13,2,290,27,0,"0 bulbs, 3 blades, 2 stipes, blade collected, loose, Clay burried it."
+third,2023-06-28,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,13,2,520,80,0,"Grew onto larger rock. 1.7cm bulb diameters, 2 bulbs, 3 blades, 2 stipes, upright, blade collected."
+third,2023-06-28,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,13,2,NA,NA,0,
+third,2023-06-28,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,13,2,NA,NA,0,
+third,2023-06-28,Dixon,10C8,10C,8,green,cool,ten,Lauren Dykman,13,2,NA,NA,0,
+third,2023-06-28,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,14,0,NA,NA,0,0 urchins. 1 wild set on rock.
+third,2023-06-28,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,14,0,NA,NA,0,0 urchins. 1 wild set on rock.
+third,2023-06-28,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,14,0,NA,NA,0,0 urchins. 1 wild set on rock.
+third,2023-06-28,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,14,0,NA,NA,0,0 urchins. 1 wild set on rock.
+third,2023-06-28,Dixon,10W8,10W,8,red,warm,ten,Lauren Dykman,14,0,NA,NA,0,0 urchins. 1 wild set on rock.
+third,2023-06-27,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-27,Dixon,2C8,2C,8,blue,cool,two,Clay Steell,NA,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,4,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,4,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,4,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,4,0,NA,NA,0,0 urchins
+third,2023-06-28,Dixon,2W8,2W,8,orange,warm,two,Clay Steell,4,0,NA,NA,0,0 urchins
+third,2023-06-26,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,4,0,NA,NA,4,"4 urchins, plot burried, covered in Desmarestia"
+third,2023-06-26,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,4,0,NA,NA,4,"4 urchins, plot burried, covered in Desmarestia"
+third,2023-06-26,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,4,0,NA,NA,4,"4 urchins, plot burried, covered in Desmarestia"
+third,2023-06-26,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,4,0,NA,NA,4,"4 urchins, plot burried, covered in Desmarestia"
+third,2023-06-26,Ed King,10C1,10C,1,green,cool,ten,Clay Steell,4,0,NA,NA,4,"4 urchins, plot burried, covered in Desmarestia"
+third,2023-06-26,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,4,"4 wild set kelp, none of our own, much Desmarestia. 0 urchins."
+third,2023-06-26,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,4,"4 wild set kelp, none of our own, much Desmarestia. 0 urchins."
+third,2023-06-26,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,4,"4 wild set kelp, none of our own, much Desmarestia. 0 urchins."
+third,2023-06-26,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,4,"4 wild set kelp, none of our own, much Desmarestia. 0 urchins."
+third,2023-06-26,Ed King,10W1,10W,1,red,warm,ten,Lauren Dykman,NA,0,NA,NA,4,"4 wild set kelp, none of our own, much Desmarestia. 0 urchins."
+third,2023-06-26,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,NA,2,1550,35,0,"0 urchins, 6 bulbs, 6 blades, 4 stipes, upright, blade collected."
+third,2023-06-26,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,NA,2,1630,50,0,"0 urchins, 8 bulbs, 5 blades, 2 stipes, upright, blade collected."
+third,2023-06-26,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,NA,2,NA,NA,0,0 urchins. Lots of Desmarestia
+third,2023-06-26,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,NA,2,NA,NA,0,0 urchins. Lots of Desmarestia
+third,2023-06-26,Ed King,2C1,2C,1,blue,cool,two,Clay Steell,NA,2,NA,NA,0,0 urchins. Lots of Desmarestia
+third,2023-06-26,Ed King,2W1,2W,1,NA,warm,two,Lauren Dykman,NA,2,540,45,0,"Near green plot 10C1. 11 bulbs, 13 blades, 2 stipes, upright, blade collected."
+third,2023-06-26,Ed King,2W1,2W,1,NA,warm,two,Lauren Dykman,NA,2,1170,45,0,"Near green plot 10C1. 8 bulbs, 8 blades, 2 stipes, upright, blade collected."
+third,2023-06-26,Ed King,2W1,2W,1,NA,warm,two,Lauren Dykman,NA,2,NA,NA,0,Near green plot 10C1. 0 urchins; 2 natural recruits; 1 macro ~2 meters
+third,2023-06-26,Ed King,2W1,2W,1,NA,warm,two,Lauren Dykman,NA,2,NA,NA,0,Near green plot 10C1. 0 urchins; 2 natural recruits; 1 macro ~2 meters
+third,2023-06-26,Ed King,2W1,2W,1,NA,warm,two,Lauren Dykman,NA,2,NA,NA,0,Near green plot 10C1. 0 urchins; 2 natural recruits; 1 macro ~2 meters
+third,2023-06-26,Ed King,C1,Control,1,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,0,"6 wild macro, lots of Desmarestia"
+third,2023-06-26,Ed King,10C2,10C,2,NA,cool,ten,Clay Steell,NA,3,830,50,0,"In thick Desmarestia outside 10C2 1 meter away. 9 bulbs, 2 stipes, upright, blade collected."
+third,2023-06-26,Ed King,10C2,10C,2,NA,cool,ten,Clay Steell,NA,3,1400,55,0,"In thick Desmarestia outside 10C2 1 meter away. Bulb diameter 1.7cm, 8 bulbs, 8 blades, 1 stipe, upright, blade collected."
+third,2023-06-26,Ed King,10C2,10C,2,NA,cool,ten,Clay Steell,NA,3,2700,80,0,"In thick Desmarestia outside 10C2 1 meter away. Bulb diameter 1.4cm, 14 bulbs, 14 blades, 2 stipes, upright, blade collected."
+third,2023-06-26,Ed King,10C2,10C,2,NA,cool,ten,Clay Steell,NA,3,NA,NA,0,0 urchins
+third,2023-06-26,Ed King,10C2,10C,2,NA,cool,ten,Clay Steell,NA,3,NA,NA,0,0 urchins
+third,2023-06-26,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,10,0,NA,NA,5,5 urchins. Other brown algae and one green gravel stipe eaten.
+third,2023-06-26,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,10,0,NA,NA,5,5 urchins. Other brown algae and one green gravel stipe eaten.
+third,2023-06-26,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,10,0,NA,NA,5,5 urchins. Other brown algae and one green gravel stipe eaten.
+third,2023-06-26,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,10,0,NA,NA,5,5 urchins. Other brown algae and one green gravel stipe eaten.
+third,2023-06-26,Ed King,10W2,10W,2,red,warm,ten,Lauren Dykman,10,0,NA,NA,5,5 urchins. Other brown algae and one green gravel stipe eaten.
+third,2023-06-26,Ed King,2C2,2C,2,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,NA
+third,2023-06-26,Ed King,2C2,2C,2,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,NA
+third,2023-06-26,Ed King,2C2,2C,2,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,NA
+third,2023-06-26,Ed King,2C2,2C,2,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,NA
+third,2023-06-26,Ed King,2C2,2C,2,NA,cool,two,Lauren Dykman,NA,0,NA,NA,0,NA
+third,2023-06-26,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2W2,2W,2,orange,warm,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,C2,Control,2,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,9,0,NA,NA,3,3 urchins. Other brown kelp. Signs of holdfast eaten.
+third,2023-06-26,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,9,0,NA,NA,3,3 urchins. Other brown kelp. Signs of holdfast eaten.
+third,2023-06-26,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,9,0,NA,NA,3,3 urchins. Other brown kelp. Signs of holdfast eaten.
+third,2023-06-26,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,9,0,NA,NA,3,3 urchins. Other brown kelp. Signs of holdfast eaten.
+third,2023-06-26,Ed King,10C3,10C,3,green,cool,ten,Lauren Dykman,9,0,NA,NA,3,3 urchins. Other brown kelp. Signs of holdfast eaten.
+third,2023-06-26,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W3,10W,3,red,warm,ten,Lauren Dykman,13,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,10,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,10,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,10,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,10,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C3,2C,3,blue,cool,two,Lauren Dykman,10,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,14,1,6,37,4,"4 urchins, covered in Desmarestia. 0 bulbs, 1 blade. No blade collected."
+third,2023-06-26,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,14,1,NA,NA,4,"4 urchins, covered in Desmarestia."
+third,2023-06-26,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,14,1,NA,NA,4,"4 urchins, covered in Desmarestia."
+third,2023-06-26,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,14,1,NA,NA,4,"4 urchins, covered in Desmarestia."
+third,2023-06-26,Ed King,2W3,2W,3,orange,warm,two,Clay Steell,14,1,NA,NA,4,"4 urchins, covered in Desmarestia."
+third,2023-06-26,Ed King,C3,Control,3,yellow,NA,NA,NA,NA,NA,NA,NA,0,NA
+third,2023-06-26,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C4,10C,4,green,cool,ten,Lauren Dykman,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,NA,0,NA,NA,11,11 urchins
+third,2023-06-26,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,NA,0,NA,NA,11,11 urchins
+third,2023-06-26,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,NA,0,NA,NA,11,11 urchins
+third,2023-06-26,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,NA,0,NA,NA,11,11 urchins
+third,2023-06-26,Ed King,10W4,10W,4,red,warm,ten,Clay Steell,NA,0,NA,NA,11,11 urchins
+third,2023-06-26,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,C4,2C,4,yellow,cool,two,Lauren Dykman,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,2W4,2W,4,orange,warm,two,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,2C4,Control,4,blue,NA,NA,Lauren Dykman,NA,NA,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,10C5,10C,5,green,cool,ten,Clay Steell,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,10W5,10W,5,red,warm,ten,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,2C5,2C,5,blue,cool,two,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2C5,2C,5,blue,cool,two,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2C5,2C,5,blue,cool,two,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2C5,2C,5,blue,cool,two,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2C5,2C,5,blue,cool,two,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,2W5,2W,5,orange,warm,two,Lauren Dykman,NA,0,NA,NA,3,3 urchins
+third,2023-06-26,Ed King,C5,Control,5,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10C6,10C,6,green,cool,ten,Clay Steell,NA,0,NA,NA,5,5 urchins
+third,2023-06-26,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins. Feather boa kelp.
+third,2023-06-26,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins. Feather boa kelp.
+third,2023-06-26,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins. Feather boa kelp.
+third,2023-06-26,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins. Feather boa kelp.
+third,2023-06-26,Ed King,10W6,10W,6,red,warm,ten,Lauren Dykman,NA,0,NA,NA,2,2 urchins. Feather boa kelp.
+third,2023-06-26,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2C6,2C,6,blue,cool,two,Clay Steell,NA,0,NA,NA,7,7 urchins
+third,2023-06-26,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+third,2023-06-26,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+third,2023-06-26,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+third,2023-06-26,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+third,2023-06-26,Ed King,2W6,2W,6,orange,warm,two,Lauren Dykman,NA,0,NA,NA,8,8 urchins
+third,2023-06-26,Ed King,C6,Control,6,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10C7,10C,7,green,cool,ten,Lauren Dykman,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,10W7,10W,7,red,warm,ten,Clay Steell,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2C7,2C,7,blue,cool,two,Lauren Dykman,NA,0,NA,NA,2,2 urchins
+third,2023-06-26,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,9,0,NA,NA,1,"1 urchin, lots of Desmarestia."
+third,2023-06-26,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,9,0,NA,NA,1,"1 urchin, lots of Desmarestia."
+third,2023-06-26,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,9,0,NA,NA,1,"1 urchin, lots of Desmarestia."
+third,2023-06-26,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,9,0,NA,NA,1,"1 urchin, lots of Desmarestia."
+third,2023-06-26,Ed King,2W7,2W,7,orange,warm,two,Clay Steell,9,0,NA,NA,1,"1 urchin, lots of Desmarestia."
+third,2023-06-26,Ed King,C7,Control,7,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,7,7 urchins.
+third,2023-06-26,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+third,2023-06-26,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+third,2023-06-26,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+third,2023-06-26,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+third,2023-06-26,Ed King,10C8,10C,8,green,cool,ten,Lauren Dykman,NA,0,NA,NA,9,9 urchins
+third,2023-06-26,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,10W8,10W,8,red,warm,ten,Clay Steell,NA,0,NA,NA,4,4 urchins
+third,2023-06-26,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,2C8,2C,8,blue,cool,two,Lauren Dykman,NA,0,NA,NA,6,6 urchins
+third,2023-06-26,Ed King,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,2W8,2W,8,orange,warm,two,Clay Steell,NA,0,NA,NA,1,1 urchin
+third,2023-06-26,Ed King,C8,Control,8,yellow,NA,NA,Lauren Dykman,NA,NA,NA,NA,4,4 urchins.

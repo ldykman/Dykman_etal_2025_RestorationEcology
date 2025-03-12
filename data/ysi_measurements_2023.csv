@@ -1,0 +1,140 @@
+﻿site,date,time,location_within_site,depth_m,temp_C,salinity_ppt,spc_us_cm,spc_ms_cm,cond_us_cm,notes
+EK,2023-03-07,2:45:00 PM,in between buoys,0,8.1,28,43825,43.85,29696,
+EK,2023-03-07,2:45:00 PM,in between buoys,1,8.1,28,43870,43.86,29682,
+EK,2023-03-07,2:45:00 PM,in between buoys,2,7.7,28.3,44250,44.24,29635,
+EK,2023-03-07,2:45:00 PM,in between buoys,3,7.7,28.4,44398,44.4,29712,
+EK,2023-03-07,2:45:00 PM,in between buoys,4,7.7,28.5,44560,44.55,29838,
+EK,2023-03-07,2:45:00 PM,in between buoys,5,7.8,28.6,44675,44.67,29984,
+EK,2023-03-07,2:45:00 PM,in between buoys,6,7.7,28.7,44800,44.8,29996,
+EK,2023-03-07,2:45:00 PM,in between buoys,7,7.7,28.7,44887,44.88,30033,
+EK,2023-03-07,2:45:00 PM,in between buoys,8,7.7,28.7,44888,44.89,30039,
+EK,2023-03-07,2:45:00 PM,in between buoys,9,7.7,28.7,44879,44.88,30037,
+EK,2023-03-07,2:45:00 PM,in between buoys,10,7.7,28.7,44878,44.88,30037,
+EK,2023-03-09,10:35:00 AM,north buoy,0,7.5,28.4,44525,44.53,29664,
+EK,2023-03-09,10:35:00 AM,north buoy,1,7.5,28.5,44535,44.55,29686,
+EK,2023-03-09,10:35:00 AM,north buoy,2,7.5,28.6,44618,44.67,29734,
+EK,2023-03-09,10:35:00 AM,north buoy,3,7.5,28.6,44762,44.75,29750,
+EK,2023-03-09,10:35:00 AM,north buoy,4,7.5,28.6,44746,44.76,29765,
+EK,2023-03-09,10:35:00 AM,north buoy,5,7.5,28.6,44800,44.8,29794,
+EK,2023-03-09,10:35:00 AM,north buoy,6,7.5,28.6,44812,44.81,29815,
+EK,2023-03-09,10:35:00 AM,north buoy,7,7.5,28.6,44809,44.81,29808,
+EK,2023-03-09,10:35:00 AM,north buoy,8,7.5,28.7,44822,44.82,29828,
+EK,2023-03-09,10:35:00 AM,north buoy,9,7.5,28.7,44855,44.86,29853,
+EK,2023-03-09,10:35:00 AM,north buoy,10,7.5,28.7,44849,44.85,29850,
+DX,2023-03-09,1:18:00 PM,south buoy,0,8,28.5,44459,44.47,29991,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,1,7.9,28.5,44606,44.58,30036,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,2,7.8,28.6,44690,44.69,29990,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,3,7.7,28.6,44751,44.75,29971,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,4,7.7,28.6,44774,44.77,29932,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,5,7.7,28.6,44771,44.78,29932,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,6,7.6,28.6,44756,44.75,29933,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,7,7.6,28.6,44770,44.77,29933,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,8,7.7,28.6,44763,44.76,29941,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,9,7.7,28.6,44766,44.77,29942,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-03-09,1:18:00 PM,south buoy,10,7.7,28.6,44766,44.77,29942,"Site depth here read as 4.7m on depth sounder, but YSI kept spooling out to 10m"
+DX,2023-04-04,13:15,in between buoys,0,9.1,29.2,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,1,9,29.2,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,2,8.8,29.5,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,3,8.7,29.9,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,4,8.6,30.2,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,5,8.6,30.4,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,6,8.5,30.5,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,7,8.3,30.9,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,8,8.2,30.9,NR,NR,NR,used ysi that only returns temp and salinity
+DX,2023-04-04,13:15,in between buoys,9,8.2,31,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,0,8.8,30.3,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,1,8.7,30.4,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,2,8.4,30.6,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,3,8.4,30.7,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,4,8.2,30.8,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,5,8.1,30.8,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,6,8.1,30.8,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,7,8.1,30.8,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,8,8.1,30.8,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-03,13:45,20 ft south of Lessard buoy,9,8.1,30.8,NR,NR,NR,used ysi that only returns temp and salinity
+EK,2023-04-05,14:30,in between buoys,0,8.4,27,42437,NR,28392,
+EK,2023-04-05,14:30,in between buoys,1,8.2,28.1,44158,NR,29926,
+EK,2023-04-05,14:30,in between buoys,2,8.1,28.3,44285,NR,29955,
+EK,2023-04-05,14:30,in between buoys,3,8,28.4,44391,NR,29945,
+EK,2023-04-05,14:30,in between buoys,4,8,28.4,44394,NR,29943,
+EK,2023-04-05,14:30,in between buoys,5,7.9,28.4,44477,NR,29971,
+EK,2023-04-05,14:30,in between buoys,6,7.9,28.5,44500,NR,29975,
+EK,2023-04-05,14:30,in between buoys,7,7.9,28.5,44580,NR,30018,
+EK,2023-04-05,14:30,in between buoys,8,7.9,28.6,44653,NR,30061,
+EK,2023-04-05,14:30,in between buoys,9,7.9,28.6,44679,NR,30088,
+EK,2023-04-05,14:30,in between buoys,10,7.9,28.6,44661,NR,30086,
+DX,2023-04-06,13:00,in between buoys,0,8.6,27,42240,NR,29003,
+DX,2023-04-06,13:00,in between buoys,1,8.5,27.3,42901,NR,29214,
+DX,2023-04-06,13:00,in between buoys,2,8.2,28.1,43922,NR,29853,
+DX,2023-04-06,13:00,in between buoys,3,8.2,28.1,43920,NR,29840,
+DX,2023-04-06,13:00,in between buoys,4,8.2,28,43825,NR,29811,
+DX,2023-04-06,13:00,in between buoys,5,8.2,28.2,44096,NR,29965,
+DX,2023-04-06,13:00,in between buoys,6,8.1,28.4,44373,NR,30041,
+DX,2023-04-06,13:00,in between buoys,7,8.1,28.4,44382,NR,30042,
+DX,2023-04-06,13:00,in between buoys,8,8.1,28.4,44391,NR,30050,
+DX,2023-04-06,13:00,in between buoys,9,8.1,28.4,44376,NR,30049,
+DX,2023-04-06,13:00,in between buoys,10,8.1,28.4,44303,NR,30041,
+EK,2023-05-18,14:45,in between buoys,0,14.3,25.1,39340,NR,31274,
+EK,2023-05-18,14:45,in between buoys,1,12.6,26.2,40892,NR,31485,
+EK,2023-05-18,14:45,in between buoys,2,11,27.3,42625,NR,31153,
+EK,2023-05-18,14:45,in between buoys,3,10.4,27.7,43266,NR,31187,
+EK,2023-05-18,14:45,in between buoys,4,10.3,27.9,43442,NR,31193,
+EK,2023-05-18,14:45,in between buoys,5,10.2,27.9,43502,NR,31185,
+EK,2023-05-18,14:45,in between buoys,6,10.2,27.9,43563,NR,31211,
+EK,2023-05-18,14:45,in between buoys,7,10,28,43660,NR,31172,
+EK,2023-05-18,14:45,in between buoys,8,10,28,43685,NR,31162,
+DX,2023-05-19,15:30,in between buoys,0,16.4,22.5,29122,NR,29609,
+DX,2023-05-19,15:30,in between buoys,1,15,24.5,39105,NR,30152,
+DX,2023-05-19,15:30,in between buoys,2,12,26.9,41905,NR,31702,
+DX,2023-05-19,15:30,in between buoys,3,11.5,27.4,42641,NR,31663,
+DX,2023-05-19,15:30,in between buoys,4,11.1,27.6,43093,NR,31574,
+DX,2023-05-19,15:30,in between buoys,5,10.7,27.7,43267,NR,31445,
+DX,2023-05-19,15:30,in between buoys,6,10.4,27.9,43426,NR,31313,
+DX,2023-05-19,15:30,in between buoys,7,10.3,27.9,43510,NR,31247,
+DX,2023-05-19,15:30,in between buoys,8,10,27.9,43589,NR,31229,
+DX,2023-05-19,15:30,in between buoys,9,10,28,43670,NR,31163,
+DX,2023-06-28,13:27,in between buoys,0,17.4,24,43015,NR,16770,
+DX,2023-06-28,13:27,in between buoys,1,17.4,27.9,43267,NR,36968,
+DX,2023-06-28,13:27,in between buoys,2,17.5,28.1,43550,NR,37307,
+DX,2023-06-28,13:27,in between buoys,3,16.2,29,44730,NR,37302,
+DX,2023-06-28,13:27,in between buoys,4,14.5,30,45830,NR,37160,
+DX,2023-06-28,13:27,in between buoys,5,12.6,30.9,47450,NR,36700,
+DX,2023-06-28,13:27,in between buoys,6,12.1,31,47700,NR,35720,
+DX,2023-06-28,13:27,in between buoys,7,11.5,31,47800,NR,35500,
+DX,2023-06-28,13:27,in between buoys,8,11.4,31,47720,NR,35430,
+DX,2023-06-28,13:27,in between buoys,9,11.5,31,47840,NR,35480,
+DX,2023-06-28,13:27,in between buoys,10,11.5,31,47700,NR,35530,
+EK,2023-06-28,12:00,in between buoys,0,14.3,30.9,47490,NR,37628,
+EK,2023-06-28,12:00,in between buoys,1,14.2,30.9,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,2,14,30.9,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,3,13.2,31.1,47786,NR,37288,
+EK,2023-06-28,12:00,in between buoys,4,12.2,31.2,47935,NR,36568,
+EK,2023-06-28,12:00,in between buoys,5,11.6,31.3,48117,NR,36043,
+EK,2023-06-28,12:00,in between buoys,6,11.4,31.3,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,7,11.3,31.3,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,8,11.3,31.3,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,9,11.2,31.3,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,10,11.2,31.3,NR,NR,NR,
+EK,2023-06-28,12:00,in between buoys,11,11.2,31.3,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,0,14.3,30.4,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,1,14.1,30.4,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,2,14,30.4,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,3,13.8,30.5,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,4,13.7,30.5,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,5,13.2,30.5,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,6,13,30.6,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,7,12.9,30.6,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,8,12.9,30.7,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,9,12.9,30.6,NR,NR,NR,
+EK,2023-08-30,11:05,in between buoys,10,12.9,30.6,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,0,15.5,30.2,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,1,15.3,30.1,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,2,15,30.2,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,3,14.8,30.2,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,4,14.2,30.4,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,5,14.7,30.5,NR,NR,NR,Looked like 14.7 but caused a spike so may have mistakenly written the number wrong.
+DX,2023-08-30,13:00,in between buoys,6,13.4,30.6,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,7,13.3,30.6,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,8,13.3,30.7,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,9,13.2,30.7,NR,NR,NR,
+DX,2023-08-30,13:00,in between buoys,10,13,30.7,NR,NR,NR,

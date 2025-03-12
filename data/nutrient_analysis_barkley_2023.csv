@@ -1,0 +1,55 @@
+﻿Cruise_Number,Sample Description,site,date,depth,Sample_Number,Nitrate_plus_Nitrite,Flag:Nitrate_plus_Nitrite,Silicate,Flag:Silicate,Phosphate,Flag:Phosphate,Comments
+BAUM LAB,DIXON 1 BOTTOM 4APR2023,Dixon,April,bottom,32,4.58,3,8.96,3,0.689,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 3 BOTTOM 4APR2023,Dixon,April,bottom,36,10.13,3,15.58,3,0.968,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 2 BOTTOM 4APR2023,Dixon,April,bottom,45,6.33,3,8.71,3,0.738,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 2 TOP 4APR2023,Dixon,April,top,41,0.00,3,2.00,3,0.113,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 3 TOP 4 APR 2023,Dixon,April,top,44,0.02,3,2.48,3,0.134,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 1 TOP 4APR2023,Dixon,April,top,50,0.00,3,3.69,3,0.135,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING #3 3APR2023 BOTTOM,Ed King,April,bottom,35,10.51,3,16.22,3,0.889,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING #2 3APR2023 BOTTOM,Ed King,April,bottom,48,10.68,3,15.77,3,0.963,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING #1 3APR2023 BOTTOM,Ed King,April,bottom,51,10.65,3,14.92,3,0.885,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING 3APR2023 TOP,Ed King,April,top,21,0.93,3,7.49,3,0.313,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING 3APR2023 TOP,Ed King,April,top,31,0.98,3,8.16,3,0.296,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING 3APR2023 TOP,Ed King,April,top,53,1.07,3,6.60,3,0.295,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON BOTTOM #1 30AUG2023,Dixon,August,bottom,23,5.72,3,21.02,3,0.966,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON BOT #2 30AUG2023,Dixon,August,bottom,26,9.32,3,23.96,3,1.195,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON BOTTOM #3 30AUG2023,Dixon,August,bottom,47,9.75,3,23.13,3,1.161,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP #1 30AUG2023,Dixon,August,top,1,3.02,3,14.55,3,0.66,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP #2 30AUG2023,Dixon,August,top,13,3.62,3,15.54,3,0.689,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP #3 30AUG2023,Dixon,August,top,46,3.58,3,15.18,3,0.638,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING BOTTOM #2 28AUG2023,Ed King,August,bottom,11,9.53,3,24.51,3,1.264,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING BOTTOM #3 22AUG2023,Ed King,August,bottom,12,8.17,3,24.54,3,1.130,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING BOT #1 28AUG2023,Ed King,August,bottom,38,7.23,3,25.91,3,1.122,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING TOP#1 28AUG2023,Ed King,August,top,4,4.42,3,21.67,3,0.906,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING TOP#3 28AUG2023,Ed King,August,top,5,3.24,3,17.54,3,0.743,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING TOP #2 28AUG2023,Ed King,August,top,9,4.70,3,22.21,3,0.923,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON BOTTOM #1 26JUN2023,Dixon,June,bottom,2,0.00,3,5.62,3,0.349,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON BOTTOM #3 28JUN2023,Dixon,June,bottom,6,0.00,3,5.88,3,0.390,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON BOTTOM #2 28JUN2023,Dixon,June,bottom,16,0.00,3,5.59,3,0.389,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP #2 28JUN2023,Dixon,June,top,3,0.00,3,2.56,3,0.121,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP #1 28JUN2023,Dixon,June,top,19,0.00,3,2.20,3,0.072,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP #3 28JUN2023,Dixon,June,top,22,0.00,3,2.04,3,0.060,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING BOTTOM #3 29JUN2023,Ed King,June,bottom,7,3.99,3,16.36,3,0.878,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING BOT #2 29JUN2023,Ed King,June,bottom,15,3.98,3,16.41,3,0.901,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING BOTTOM #1 29JUN2023,Ed King,June,bottom,33,2.92,3,14.10,3,0.772,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING TOP #3 29JUN2023,Ed King,June,top,8,0.00,3,4.19,3,0.264,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING TOP #129JUN2023,Ed King,June,top,17,0.00,3,2.09,3,0.177,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING TOP #2 19JUN2023,Ed King,June,top,18,0.00,3,3.78,3,0.253,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 1 9MAR2023,Dixon,March,bottom,40,9.10,3,17.48,3,0.957,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 3 9MAR2023,Dixon,March,bottom,52,9.14,3,16.65,3,0.960,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON 2 9MAR2023,Dixon,March,bottom,54,8.23,3,16.71,3,0.963,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING 2 7MAR2023,Ed King,March,bottom,42,7.95,3,14.79,3,0.766,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING 1 7MAR2023,Ed King,March,bottom,43,9.94,3,18.67,3,1.009,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,ED KING 3 7MAR2023,Ed King,March,bottom,49,10.04,3,18.82,3,1.035,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DX BOTTOM 2 17MAY2023,Dixon,May,bottom,24,0.00,3,1.07,3,0.114,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DX BOTTOM 3 17MAY2023,Dixon,May,bottom,28,0.00,3,1.86,3,0.125,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DX BOTTOM 1 17MAY2023,Dixon,May,bottom,29,0.00,3,1.77,3,0.112,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DX TOP 3 17MAY2023,Dixon,May,top,10,0.00,3,2.30,3,0.047,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DX TOP 2 17MAY2023,Dixon,May,top,14,0.00,3,1.97,3,0.054,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,DIXON TOP 1 17MAY2023,Dixon,May,top,20,0.00,3,1.77,3,0.041,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,EK BOTTOM 2 18MAY2023,Ed King,May,bottom,27,1.24,3,5.04,3,0.338,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,EK BOTTOM 1 18MAY2023,Ed King,May,bottom,30,2.29,3,9.15,3,0.460,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,EK BOTTOM 3 18MAY2023,Ed King,May,bottom,39,2.36,3,8.19,3,0.474,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,EK TOP 2 18MAY2023,Ed King,May,top,25,0.12,3,4.44,3,0.254,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,EK TOP 1 18MAY2023,Ed King,May,top,34,0.15,3,4.69,3,0.262,3,NUTS:  Samples stored frozen > 3 months
+BAUM LAB,EK TOP 3 18MAY2023,Ed King,May,top,37,0.18,3,4.68,3,0.229,3,NUTS:  Samples stored frozen > 3 months
